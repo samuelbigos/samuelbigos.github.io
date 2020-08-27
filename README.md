@@ -1,2 +1,2 @@
 # samuelbigos.github.io
-Just a website nothing to see here.
+![samuelbigos.github.io](samuelbigos.github.io)
