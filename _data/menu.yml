@@ -2,33 +2,30 @@ entries:
   - title: info
     url: false
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-        url: false
-      - title: github
-        url: https://github.com/riggraz/no-style-please
-      - title: used by riggraz.dev
-        url: https://riggraz.dev/
+      - title: about
+        url: about.html
 
-  - title: thoughts
+  - title: articles
     post_list: true
     url: false
     entries: false
 
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
+  - title: projects
     url: false
     entries:
-      - title: with subitems
-        url: false
-        entries:
-          - title: with subsubitems
-            url: false
-          - title: example page
-            url: about
-  - title: PRO TIP
+      - title: godot 2d global illumination
+        url: https://github.com/samuelbigos/godot_2d_global_illumination
+      - title: tether well
+        url: https://github.com/samuelbigos/tether_well
+      - title: cards'n'castles
+        url: https://github.com/samuelbigos/cards_n_castles
+        
+  - title: links
     url: false
     entries:
-      - title: to edit this menu, edit _data/menu.yml file
-        url: false
+      - title: twitter
+        url: https://twitter.com/Calneon
+      - title: github
+        url: https://github.com/samuelbigos
+      - title: itch.io
+        url: https://sambigos.itch.io/

@@ -4,7 +4,9 @@
     {% if item.url != false %}
       <a href="{{ item.url }}">{{ item.title }}</a>
     {% else %}
+      <h2>
       {{ item.title }}
+      </h2>
     {% endif %}
     </li>
 
