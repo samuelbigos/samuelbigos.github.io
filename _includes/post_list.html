@@ -1,8 +1,8 @@
 {% if site.posts.size > 0 %}
-  <ul>
+  <ul class="home">
     {% for post in site.posts %}
       <li>
-        {{ post.date | date: site.theme_config.date_format }} <a href="{{ post.url }}">{{ post.title | downcase }}</a>
+        <a class="home" href="{{ post.url }}">{{ post.date | date: site.theme_config.date_format }} - {{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>

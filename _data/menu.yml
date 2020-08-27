@@ -1,31 +1,34 @@
 entries:
-  - title: info
+
+  - title: projects
     url: false
     entries:
-      - title: about
-        url: about.html
-
+      - title: 2D Global Illumination in Godot
+        url: /2dgi/
+      - title: Tether Well
+        url: /tetherwell/
+      - title: Cards'n'Castles
+        url: /cardsncastles/
+        
   - title: articles
     post_list: true
     url: false
     entries: false
 
-  - title: projects
-    url: false
-    entries:
-      - title: godot 2d global illumination
-        url: https://github.com/samuelbigos/godot_2d_global_illumination
-      - title: tether well
-        url: https://github.com/samuelbigos/tether_well
-      - title: cards'n'castles
-        url: https://github.com/samuelbigos/cards_n_castles
-        
   - title: links
     url: false
     entries:
-      - title: twitter
+      - title: Twitter
         url: https://twitter.com/Calneon
-      - title: github
+      - title: GitHub
         url: https://github.com/samuelbigos
       - title: itch.io
         url: https://sambigos.itch.io/
+        
+  - title: info
+    url: false
+    entries:
+      - title: About
+        url: /about/
+      - title: Professional Credits
+        url: /pro-credits/

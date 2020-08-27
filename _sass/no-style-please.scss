@@ -1,37 +1,56 @@
 body {
-  color: #2e3037;
-  background-color: #f0f6f0 ;
+  color: #282828;
+  background-color: #ededed;
   font-family: Arvo, monospace;
-  font-size: 1.2rem;
+  font-size: 0.9rem;
   line-height: 1.3rem;
 }
 
 .wrapper {
   width: fit-content;
-  max-width: 640px;
-  margin: 2rem;
+  max-width: 40rem;
+  margin: 2rem auto;
   padding: 0 2rem;
 }
 
+a.back {
+  margin: 0px; 
+  padding-left: 0.5rem;
+  display: block; 
+  width: 25rem; 
+  height: 100%;
+}
+
+img {
+  border: 1px solid #eb6b6f;
+}
+
+a.back:hover {
+  background-color: #282828;
+}
+
 h1 { 
-  line-height: 2rem; 
+  line-height: 1.5rem; 
+  font-size: 2.1rem;
+  padding-bottom: 1rem;
   font-family: Russo One, monospace;
 }
 
 h2 { 
   line-height: 2rem; 
-  font-size: 1.8rem;
+  font-size: 1.2rem;
   font-family: Arvo, monospace;
+  color: #eb6b6f;
   &:before { content: '// ' }
 }
 
 hr {
   text-align: left;
   border: 0;
-  margin: 2rem;
+  color: #eb6b6f;
 
   &:before { content: '// ' }
-  &:after { content: attr(data-content) '=============================================================' }
+  &:after { content: attr(data-content) '------------------------------------------------------------------------------------------------' }
 }
 
 table, th, td {
@@ -40,32 +59,64 @@ table, th, td {
 }
 
 ul {
+  list-style-type: square;
+}
+
+ul.home {
   list-style-type: none;
   margin: 0;
-  padding: 5;
+  padding: 0;
+  padding-left: 0.5rem;
 }
 
 li, p {
   line-height: 1.7rem;
 }
 
- /* unvisited link */
-a:link {
-  color: #2e3037;
+li a:hover {
+  color: #e1e1e1;
+  background-color: #282828;
 }
 
-/* visited link */
+li a {
+  margin: 0px; 
+  display: block; 
+  width: 25rem; 
+  height: 100%;
+  padding-left: 0.25em;
+}
+
+a:link {
+  color: #eb6b6f;
+}
+
 a:visited {
   color: #eb6b6f;
 }
 
-/* mouse over link */
 a:hover {
-  color: #eb6b6f;
+  color: #e1e1e1;
+  text-decoration: none;
+  background-color: #282828;
+}
+
+a:active {
+  color: #e1e1e1;
+} 
+
+a.home:link {
+  color: #282828;
+}
+
+a.home:visited {
+  color: #282828;
+}
+
+a.home:hover {
+  color: #e1e1e1;
   text-decoration: none;
 }
 
-/* selected link */
-a:active {
-  color: #2e3037;
+a.home:active {
+  color: #e1e1e1;
 } 
