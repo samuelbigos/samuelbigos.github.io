@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<a class="back" href="{{ site.url }}">< < < </a>
+<a class="back" href="https://samuelbigos.github.io">< < < </a>
 
 # About
 

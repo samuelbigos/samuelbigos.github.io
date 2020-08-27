@@ -4,7 +4,7 @@ title: Tether Well
 permalink: /tetherwell/
 ---
 
-<a class="back" href="{{ site.url }}">< < < </a>
+<a class="back" href="https://samuelbigos.github.io">< < < </a>
 
 # Tether Well
 

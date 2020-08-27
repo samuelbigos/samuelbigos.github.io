@@ -4,7 +4,7 @@ title: Cards'n'Castles
 permalink: /cardsncastles/
 ---
 
-<a class="back" href="{{ site.url }}">< < < </a>
+<a class="back" href="https://samuelbigos.github.io">< < < </a>
 
 # Cards'n'Castles
 
