@@ -2,7 +2,7 @@
   <ul class="home">
     {% for post in site.posts %}
       <li>
-        <a class="home" href="{{ post.url }}">{{ post.date | date: site.theme_config.date_format }} - {{ post.title }}</a>
+        <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span> » <a class="home" href="{{ post.url }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>

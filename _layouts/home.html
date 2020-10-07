@@ -3,8 +3,15 @@ layout: default
 ---
 <header>
   <h1>{{ site.title }}</h1>
+  <a href="https://twitter.com/Calneon">twitter</a> / 
+  <a href="https://github.com/samuelbigos">github</a> /
+  <a href="https://sambigos.itch.io/">itch.io</a>
   {% if site.theme_config.show_description == true %}
     <p>{{ site.description }}</p>
   {% endif %}
 </header>
 {% include menu_item.html collection=site.data.menu.entries %}
+
+<div class="footer">
+  <p>Sam Bigos, ©2020</p>
+</div>

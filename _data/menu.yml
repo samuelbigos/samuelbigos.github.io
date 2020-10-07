@@ -1,34 +1,22 @@
 entries:
 
-  - title: projects
-    url: false
-    entries:
-      - title: 2D Global Illumination in Godot
-        url: /2dgi/
-      - title: Tether Well
-        url: /tetherwell/
-      - title: Cards'n'Castles
-        url: /cardsncastles/
-        
-  - title: articles
+  - title: Blog
     post_list: true
     url: false
     entries: false
 
-  - title: links
+  - title: Stuff i made
     url: false
     entries:
-      - title: Twitter
-        url: https://twitter.com/Calneon
-      - title: GitHub
-        url: https://github.com/samuelbigos
-      - title: itch.io
-        url: https://sambigos.itch.io/
-        
-  - title: info
-    url: false
-    entries:
-      - title: About
-        url: /about/
-      - title: Professional Credits
+      - title: 2D Global Illumination in Godot
+        desc: example of global illumination implementation in Godot
+        url: /2dgi/
+      - title: Tether Well
+        desc: control a dungeon delver with a rope tether made for gamejam
+        url: /tetherwell/
+      - title: Cards'n'Castles
+        desc: autobattler medieval strategy made for gamejam
+        url: /cardsncastles/
+      - title: My Professional Credits
+        desc: games i've worked on as a programmer in the games industry
         url: /pro-credits/

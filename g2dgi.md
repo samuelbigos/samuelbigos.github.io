@@ -4,7 +4,7 @@ title: Godot 2D Global Illumination Demo
 permalink: /2dgi/
 ---
 
-<a class="back" href="https://samuelbigos.github.io">< < < </a>
+<a class="back" href="https://samuelbigos.github.io">home</a>
 
 # 2D Global Illumination in Godot
 

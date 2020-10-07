@@ -4,7 +4,7 @@ title: Professional Credits
 permalink: /pro-credits/
 ---
 
-<a class="back" href="https://samuelbigos.github.io">< < < </a>
+<a class="back" href="https://samuelbigos.github.io">home</a>
 
 # Professional Credits
 
