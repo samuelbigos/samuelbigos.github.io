@@ -15,7 +15,7 @@ Having said _that_, I will come clean and tell you I knew next to nothing about 
 
 _Come on get to the point._ Ok fine.
 
-![Forza Street](/assets/2020-10-05-2dgi1-2d-global-illumination-in-godot/1.png "Forza Street")
+<img class="resize" src="/assets/2020-10-05-2dgi1-2d-global-illumination-in-godot/1.png" />
 
 ## The Point
 
@@ -46,7 +46,24 @@ Since the common data format of the GPU is the humble texture, we'll be storing 
 
 ## Hang on...
 
-Ok, there's an important thing we need to do first. By default, when you draw a sprite in most engines
+Ok, there's an important thing we need to do first. By default, when you draw a sprite in most engines it will get drawn to the frame buffer, which is a texture (or a group of textures) onto which the whole scene is drawn, and then 'presented' to the screen. Instead we want to draw our sprite onto a texture we can then use as an input to our lighting shader. How to do this will differ depending on the engine or framework, I will show how it's done in Godot. 
+
+### Render Textures in Godot
+
+Godot has an object called a [Viewport](https://docs.godotengine.org/en/stable/tutorials/viewports/viewports.html). Nodes (Sprites, Canvases, Particles, etc) are drawn to the closest parent Viewport, and each Scene has a root viewport even if you don't add one manually, that root viewport is what presents it's contents to the screen.
+
+This means we can create a new viewport, add our emitters and occluders as child sprites to it, then access the resulting texture to feed into our lighting shader. I'm also going to create a TextureRect called Screen as a child of the root node. This is going to be the target for our lighting shader, so we need to give it a texture (a 1x1 white image will do), and set Expand to true.
+
+_If you're following along with your own Godot project, know that I am using Godot v3.2. In your project settings, set Driver Name to GLES3 and set your window size to something small (e.g. 640x360). Make a new scene with a Node2D as root._
+
+So let's see how all that looks in a Godot scene.
+
+<img src="/assets/2020-10-05-2dgi1-2d-global-illumination-in-godot/viewport_screen_layout.png" />
+
+<img src="/assets/2020-10-05-2dgi1-2d-global-illumination-in-godot/screen_settings.png" />
+
+Now we have to do some setup in code. For now, to test everything is working, 
+
 
 
 {% highlight ruby  %}
