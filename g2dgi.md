@@ -4,7 +4,9 @@ title: Godot 2D Global Illumination Demo
 permalink: /2dgi/
 ---
 
-<a class="back" href="https://samuelbigos.github.io">home</a>
+<p>
+   <a class="back" href="https://samuelbigos.github.io/">home</a>
+</p>
 
 # 2D Global Illumination in Godot
 
@@ -18,8 +20,8 @@ Concepts involved:
 * Radiosity
 * Raymarching
 
-![alt text](../assets/2dgi/godot_2d_global_illumination_1.png "Godot 2D Global Illumination Demo")
-![alt text](../assets/2dgi/godot_2d_global_illumination_5.png "Godot 2D Global Illumination Demo")
-![alt text](../assets/2dgi/godot_2d_global_illumination_3.png "Godot 2D Global Illumination Demo")
-![alt text](../assets/2dgi/godot_2d_global_illumination_2.png "Godot 2D Global Illumination Demo")
-![alt text](../assets/2dgi/godot_2d_global_illumination_4.png "Godot 2D Global Illumination Demo")
+<img class="full" src="/assets/2dgi/godot_2d_global_illumination_1.png" />
+<img class="full" src="/assets/2dgi/godot_2d_global_illumination_5.png" />
+<img class="full" src="/assets/2dgi/godot_2d_global_illumination_3.png" />
+<img class="full" src="/assets/2dgi/godot_2d_global_illumination_2.png" />
+<img class="full" src="/assets/2dgi/godot_2d_global_illumination_4.png" />

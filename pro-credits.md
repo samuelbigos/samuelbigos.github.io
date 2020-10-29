@@ -4,13 +4,15 @@ title: Professional Credits
 permalink: /pro-credits/
 ---
 
-<a class="back" href="https://samuelbigos.github.io">home</a>
+<p>
+   <a class="back" href="https://samuelbigos.github.io/">home</a>
+</p>
 
 # Professional Credits
 
 ## 2017-2020 - Forza Street
 
-![Forza Street](../assets/pro-credits/forza-street.png "Forza Street")
+<img class="full" src="/assets/pro-credits/forza-street.png" />
 
 [Forza Street](https://forzamotorsport.net/en-us/forza_street) is a casual free-to-play racing game in the Forza franchilse, released on Windows, iOS, and Android.
 
@@ -21,7 +23,7 @@ permalink: /pro-credits/
 
 ## 2015-2017 - F1 2016 Mobile
 
-![F1 2016](../assets/pro-credits/f1-2016.png "F1 2016")
+<img class="full" src="/assets/pro-credits/f1-2016.png" />
 
 [F1 2016](https://www.formula1.com/en/latest/headlines/2016/11/f1-2016-game-launches-on-mobile.html) is the 2016 mobile version of the annual AAA F1 simulation racing game.
 
@@ -32,7 +34,7 @@ permalink: /pro-credits/
 
 ## 2012-2015 - Angry Birds Go!
 
-![Angry Birds Go!](../assets/pro-credits/angry-birds-go.png "Angry Birds Go!")
+<img class="full" src="/assets/pro-credits/angry-birds-go.png" />
 
 [Angry Birds Go!](https://angrybirds.fandom.com/wiki/Angry_Birds_Go!) was a free-to-play mobile downhill kart racer set in the Angry Birds universe.
 
