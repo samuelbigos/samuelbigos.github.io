@@ -1,17 +1,23 @@
 body {
-  background-color: #f9f9f9;
-  color: #303030;
-  font-family: Miriam Libre, "Courier New", monospace;
-  font-size: 1.0rem;
-  line-height: 1.5rem;
-  margin-left: 16.5rem;
+   background-color: #f9f9f9;
+   color: #303030;
+   font-family: Miriam Libre, "Courier New", monospace;
+   font-size: 1.0rem;
+   line-height: 1.5rem;
+   margin-left: 12rem;
+}
+
+@media (max-width: 1000px) {
+   body {
+      margin-left: 0rem;
+   }
 }
 
 .wrapper {
-  width: fit-content;
-  max-width: 45rem;
-  margin: 2rem auto;
-  padding: 0 2rem;
+   width: fit-content;
+   max-width: 45rem;
+   margin: 2rem auto;
+   padding: 0 1rem;
 }
 
 .created {
@@ -43,14 +49,24 @@ img.small {
   margin-right: 2rem;
 }
 
+@media (max-width: 1000px) {
+   img.small {
+      width: 100%;
+      margin-left: 0rem;
+   }
+   img.full {
+      width: 100%;
+      margin-left: 0rem;
+   }
+}
+
 a.back:hover {
 }
 
 h1 { 
   color: #a00000;
-  line-height: 1.0rem; 
+  line-height: 1.8rem; 
   font-size: 1.6rem;
-  margin-left: -2rem;
   margin-bottom: 2rem;
 }
 
@@ -60,11 +76,9 @@ h2 {
   line-height: 1.5rem; 
   font-size: 1.1rem;
   &:before { content: '// ' }
-  margin-left: -1rem;
 }
 
 h3 {
-  margin-left: -1rem;
 }
 
 table, th, td {
@@ -112,8 +126,16 @@ span.date {
 .toc {
   font-size: 0.9rem;
   float: left;
-  width: 16rem;
-  margin-left: -18rem;
+  width: 14rem;
+  margin-left: -15rem;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 1000px) {
+   .toc {
+      width: 100%;
+      margin-left: 0rem;
+   }
 }
 
 ul {
@@ -151,10 +173,17 @@ ul li.home::before {
   margin-top: 0.25rem;
   margin-bottom: 1rem;
   padding-left: 1rem;
-  padding-right: 1rem;
+  padding-right: 0.5rem;
   float: left;
-  margin-left: -18rem;
+  margin-left: -13rem;
   width: 27rem;
+}
+
+@media (max-width: 1000px) {
+   .info {
+      width: 97%;
+      margin-left: 0rem;
+   }
 }
 
 hr {
@@ -175,6 +204,13 @@ hr {
    font-size: 0.9rem;
    padding-left: 1rem;
    padding-right: 1rem;
+}
+
+@media (max-width: 1000px) {
+   .highlight {
+      margin-left: 0rem;
+      width: 97%
+   }
 }
 
 pre {
