@@ -26,6 +26,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: calneon
 github_username: samuelbigos
 
+issues_repo: samuelbigos/samuelbigos.github.io
+
+permalink: /:categories/:title:output_ext
+
 # Build settings
 plugins:
   - jekyll-feed

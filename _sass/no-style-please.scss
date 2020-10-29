@@ -4,7 +4,7 @@ body {
   font-family: Miriam Libre, "Courier New", monospace;
   font-size: 1.0rem;
   line-height: 1.5rem;
-  margin-left: 10rem;
+  margin-left: 16.5rem;
 }
 
 .wrapper {
@@ -12,6 +12,11 @@ body {
   max-width: 45rem;
   margin: 2rem auto;
   padding: 0 2rem;
+}
+
+.created {
+  font-style: italic;
+  text-align: center;
 }
 
 img {
@@ -22,7 +27,7 @@ img {
 }
 
 img.full {
-  border-radius: 12px;
+  border-radius: 8px;
   width: 51rem;
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
@@ -30,7 +35,7 @@ img.full {
 }
 
 img.small {
-  border-radius: 12px;
+  border-radius: 8px;
   width: 41rem;
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
@@ -55,6 +60,11 @@ h2 {
   line-height: 1.5rem; 
   font-size: 1.1rem;
   &:before { content: '// ' }
+  margin-left: -1rem;
+}
+
+h3 {
+  margin-left: -1rem;
 }
 
 table, th, td {
@@ -62,23 +72,10 @@ table, th, td {
   border-collapse: collapse;
 }
 
-ul {
-  list-style-type: square;
-}
-
 ul.home {
-  list-style-type: none;
   margin: 0;
   padding: 0;
   padding-left: 0.0rem;
-}
-
-li, p {
-  line-height: 1.5rem;
-}
-
-li {
-  padding-top: 0.5rem;
 }
 
 a:link {
@@ -135,6 +132,10 @@ ul li::before {
   margin-left: -1em; /* Also needed for space (tweak if needed) */
 }
 
+ul li.home::before {
+  content: "";
+}
+
 .column {
   float: left;
   padding-right: 0.5rem;
@@ -144,11 +145,10 @@ ul li::before {
 
 .info {
   font-size: 0.9rem;
-  font-style: italic;
   background: #eeeeee;
   border-radius: 8px;
   margin-right: 2rem;
-  margin-top: 1rem;
+  margin-top: 0.25rem;
   margin-bottom: 1rem;
   padding-left: 1rem;
   padding-right: 1rem;
@@ -157,21 +157,42 @@ ul li::before {
   width: 27rem;
 }
 
-/** Syntax highlighting styles */
-.highlight { 
-	background: #202531; 
-	border-radius: 8px;
-	margin-left: -6rem;
-  width: 51rem;
-	padding-left: 1.0rem;
-	padding-right: 1.0rem;
-	padding-top: 0.05rem;
-	padding-bottom: 0.05rem;
-	line-height: 1.2rem;
-	font-size: 0.9rem;
+hr {
+   border-top: 3px solid #a00000;
+   width: 56rem;
+   margin-left: -6rem;
+   margin-top: 2rem;
+   margin-bottom: 2rem;
 }
 
-Pre,code{ font-family: Source Code Pro; padding-bottom: 0.75rem; tab-size: 1; }
+/** Syntax highlighting styles */
+.highlight { 
+   background: #202531; 
+   border-radius: 8px;
+   margin-left: -6rem;
+   width: 51rem;
+   line-height: 1.2rem;
+   font-size: 0.9rem;
+   padding-left: 1rem;
+   padding-right: 1rem;
+}
+
+pre {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+pre, code { 
+  font-family: Source Code Pro;
+}
+
+code.language-plaintext {
+   font-family: Source Code Pro;
+   background-color: #e6e9ea;
+   padding: 0em 0.2em;
+   border-radius: 3px;
+   font-style: italic;
+}
 
 .highlight pre { white-space: pre; overflow: auto; }
 .highlight .c { color: #6d7079; font-style: italic; } /* Comment */
@@ -242,3 +263,28 @@ Pre,code{ font-family: Source Code Pro; padding-bottom: 0.75rem; tab-size: 1; }
 .highlight .vg { color: #62bf58 } /* Name.Variable.Global */
 .highlight .vi { color: #62bf58 } /* Name.Variable.Instance */
 .highlight .il { color: #a0ffe0 } /* Literal.Number.Integer.Long */
+
+img.comment-avatar {
+   width: 2rem;
+   left: -2.0rem;
+   float: left;
+   padding-left: 0.5rem;
+   padding-right: 1rem;
+}
+
+a.comment-username {
+   font-weight: bold;
+   float: left;
+}
+
+div.comment-posted {
+   float: left;
+   padding-left: 1rem;
+}
+
+div.comment-body {
+   padding-bottom: 2rem;
+}
+
+.post-comment-button {
+}
