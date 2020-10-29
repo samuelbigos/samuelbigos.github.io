@@ -114,7 +114,7 @@ func _ready():
 
 Now, running this we see two sprites drawn, but the entire window appears upside down. This is normal, and is because Godot and OpenGL's Y-coordinate expects different directionality (in Godot Y increases towards the bottom, and in OpenGL it increases towards the top). We fix this by enabling `V Flip` in our EmittersAndOccluders viewport settings. Thus:
 
-<img class="small" src="/assets/2020-10-05-2dgi1-2d-global-illumination-in-godot/first_output.png" />
+<img class="small" src="/assets/2020-10-05-2dgi1-2d-global-illumination-in-godot/first-output.png" />
 
 ## The Fun Stuff - Fields And Algorithms
 
