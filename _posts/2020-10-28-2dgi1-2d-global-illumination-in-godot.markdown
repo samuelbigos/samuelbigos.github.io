@@ -13,11 +13,11 @@ This is the first of a series of blog posts I plan to write, breaking apart the 
 
 _To skip some preamble and get to the Godot implementation, click [here](#setting-the-scene). If you want to skip **everything** and get the code, click [here](#thats-all-for-now-folks)._
 
-I want to do more than just give you the code and tell you where to put it (after all, [I've made the source available](https://github.com/samuelbigos/godot_2d_global_illumination)), Amit Patel's [Red Blob Games](https://www.redblobgames.com/) has proven an invaluable resource in many of my game dev ventures, and my hope is that this series, in some small way, emulates the way he carves up complex theories into bite-sized and beatiful morsels of knowledge. That is to say I'll be talking less about the Godot implementation and more about the algorithms and process such that you can go away and implement it in whichever framework you'd like.
+I want to do more than just give you the code and tell you where to put it (after all, [I've made the demo source available](https://github.com/samuelbigos/godot_2d_global_illumination)). Hopefully after reading through this, or even better, following along yourself, you'll get a better understanding of the methods involved and be able to experiment and modify stuff yourself, to use in your own games.
 
-Having said _that_, I will come clean and tell you I knew next to nothing about any of these subjects before around three months ago, so I am hardly the authority on the matter. However, around that time I did a _lot_ of Googling and found only smatterings of info/examples. The most useful resource was [/u/toocanzs](https://www.reddit.com/r/gamedev/comments/91mwrh/infinity_2d_lights_with_shadows_gi/e2zts0a/) who wrote a [shadertoy](https://www.shadertoy.com/view/lltcRN) example of the technique (which was itself inspired by another reddit user's example). It's safe to say without this as a jumping-board my implementation wouldn't exist. Apart from this, I only found a few other people who have done something similar - two of the more inspiring being [Thomas Diewald's animations](https://vimeo.com/diwi) and [Andy Duboc's images](http://andbc.co/2d_radiosity/) - but nothing with implementation details.
+Having said that, I will come clean and tell you I knew next to nothing about any of these subjects before around three months ago, so I am hardly the authority on the matter. However, around that time I did a _lot_ of Googling and found smatterings of info and examples. The most useful resource was [/u/toocanzs](https://www.reddit.com/r/gamedev/comments/91mwrh/infinity_2d_lights_with_shadows_gi/e2zts0a/) who wrote a [shadertoy](https://www.shadertoy.com/view/lltcRN) example of the technique (which was itself inspired by another reddit user's example). It's safe to say without this as a jumping-board my implementation wouldn't exist. Apart from this, I only found a few other people who have done something similar - two of the more inspiring being [Thomas Diewald's animations](https://vimeo.com/diwi) and [Andy Duboc's images](http://andbc.co/2d_radiosity/) - but nothing with implementation details.
 
-_Come on get to the point._ Ok fine.
+_Come on get to the point_ I hear you cry, OK fine.
 
 <img class="full" src="/assets/2020-10-05-2dgi1-2d-global-illumination-in-godot/1.png" />
 
@@ -27,14 +27,12 @@ _Come on get to the point._ Ok fine.
 If you want to jump ahead and take a look at the <b>completed project</b>, I won't judge. It's on <a href="https://github.com/samuelbigos/tutorial_projects">my GitHub</a>.
 </p></div>
 
-The point is that I'm lazy, and I want a lighting system that _just works_ without me, the curator, having to worry about placing lights, probes, occlusion volumes, dealing with light blending, shadowing artifacts, yada yada, and what better way to achieve that than do it the way it _just works_ in real life with actual rays of photons (unless you believe a certain outcome of the [Simulation Argument](https://www.simulation-argument.com/simulation.html)). Of course, I also want it to look amazing and unlike any other game out there. And I've looked, no other game I've found is doing this (probably because it's _really hard_ once you start building an actual game around it). It also needs to run well.
+The point is that I'm lazy, and I want a lighting system that _just works_ without me, the curator, having to worry about placing lights, probes, occlusion volumes, dealing with light blending, shadowing artifacts, yada yada, and what better way to achieve that than do it the way it _just works_ in real life with actual rays of photons. Of course, I also want it to look amazing and unlike any other game out there. And I've looked, no other game I've found is doing this (probably because it's _really hard_ once you start building an actual game around it). Oh and it also needs to run well.
 
 **Tl;dr**
 * It needs to run well on medium spec hardware. No point in looking pretty if it makes the game unplayable.
 * It needs to look good (bounced light, shadows, colour blending).
 * It should make curation (i.e. levels, environments, _content_) easier, not harder, compared to more standard lighting techniques.
-
-Let's get started...
 
 ## Looking At The Data
 
@@ -465,7 +463,7 @@ void fragment()
 
 {% endhighlight %}
 
-Hopefully most of this makes sense if you've been paying attention up untill now. One possibly obscure part might be transforming the UV to world aspect ratio. We need to do this if our viewport is rectangular or our distances will be different depending on whether they're biased towards the X or X axis. We'll need to translate back to UV space before sampling any input textures.
+Hopefully most of this makes sense if you've been paying attention up until now. One possibly obscure part might be transforming the UV to world aspect ratio. We need to do this if our viewport is rectangular or our distances will be different depending on whether they're biased towards the X or X axis. We'll need to translate back to UV space before sampling any input textures.
 
 ### Raymarching
 
@@ -494,7 +492,7 @@ bool raymarch(vec2 origin, vec2 dir, float aspect, out vec2 hit_pos)
 
       // early exit if we hit the edge of the screen.
       if(sample_point.x > 1.0 || sample_point.x < 0.0 || sample_point.y > 1.0 || sample_point.y < 0.0)
-      return false;
+         return false;
 
       float dist_to_surface = texture(u_distance_data, sample_point).r / u_dist_mod;
 
