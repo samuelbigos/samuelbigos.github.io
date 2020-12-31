@@ -49,6 +49,22 @@ img.small {
   margin-right: 2rem;
 }
 
+img.inline-l {
+  border-radius: 8px;
+  margin-top: 0.25rem;
+  margin-bottom: 0.5rem;
+  margin-right: 1.0rem;
+  float: left;
+}
+
+img.inline-r {
+  border-radius: 8px;
+  margin-top: 0.25rem;
+  margin-bottom: 0.5rem;
+  margin-left: 1.0rem;
+  float: right;
+}
+
 @media (max-width: 1000px) {
    img.small {
       width: 100%;
