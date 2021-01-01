@@ -9,6 +9,7 @@ layout: default
 <div class="toc">
    {% include toc.html html=content %}
 </div>
+<div class="created">{{ page.created }}</div><br>
 {{ content }}
 {% if page.comments_id %}
    {% include comments.html issue_id=page.comments_id %}

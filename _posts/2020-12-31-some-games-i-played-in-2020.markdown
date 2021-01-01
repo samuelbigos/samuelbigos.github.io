@@ -3,8 +3,10 @@ layout: post
 title:  "Some games I played in 2020"
 date:   2020-12-31 00:00:00 +0000
 categories: posts
+description: "lalalalala"
+image: "/assets/2020-12-31-some-games-i-played-in-2020/summary.png"
+created: "Created 31 December 2020"
 ---
-<div class="created">Created 31 December 2020</div>
 
 Some brief thoughts about any momorable or significant games I played in 2020. Generally ordered chronologically, starting at the beginning of the year.
 
