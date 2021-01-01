@@ -4,7 +4,7 @@ title:  "Some games I played in 2020"
 date:   2020-12-31 00:00:00 +0000
 categories: posts
 description: "lalalalala"
-image: "/assets/2020-12-31-some-games-i-played-in-2020/summary.png"
+image: "https://samuelbigos.github.io/assets/2020-12-31-some-games-i-played-in-2020/summary.png"
 created: "Created 31 December 2020"
 ---
 
