@@ -8,6 +8,10 @@
       {{ item.title }}
       </h2>
     {% endif %}
+    {% if item.img != false %}
+      <img class="home" src="{{ item.img }}" />
+    {% endif %}
+    <p>
     </li>
 
     {% if item.post_list == true %}

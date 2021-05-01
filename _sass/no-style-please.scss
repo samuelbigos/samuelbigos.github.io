@@ -32,6 +32,24 @@ img {
   margin-right: auto;
 }
 
+img.home-head {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+img.home {
+   display: block;
+   margin-left: 0px;
+   margin-right: auto;
+   width: 200px;
+   height: 120px;
+   border-radius: 16px;
+   padding-top: 0.25rem;
+   padding-bottom: 0.25rem;
+   object-fit: cover;
+}
+
 img.full {
   border-radius: 8px;
   width: 51rem;
@@ -84,6 +102,7 @@ h1 {
   line-height: 1.8rem; 
   font-size: 1.6rem;
   margin-bottom: 2rem;
+  text-align: center;
 }
 
 h2 { 
@@ -92,6 +111,7 @@ h2 {
   line-height: 1.5rem; 
   font-size: 1.1rem;
   &:before { content: '// ' }
+  text-align: center;
 }
 
 h3 {
@@ -126,6 +146,7 @@ a:active {
   bottom: 0;
   width: 100%;
   text-align: center;
+  background: #f9f9f9;
 }
 
 span.date {

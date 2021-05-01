@@ -3,20 +3,72 @@ entries:
   - title: Blog
     post_list: true
     url: false
+    img: false
     entries: false
 
-  - title: Stuff i made
+  - title: Game jams and side projects
     url: false
+    img: false
     entries:
-      - title: 2D Global Illumination in Godot
-        desc: example of global illumination implementation in Godot
-        url: /2dgi/
+      - title: Todd the Caver
+        img: /assets/home/todd-the-caver.png
+        desc: Ludum Dare 48
+        url: https://sambigos.itch.io/todd-the-caver
+      - title: Geiger
+        img: /assets/home/geiger.png
+        desc: Mini Jam 76
+        url: https://sambigos.itch.io/geiger
+      - title: Heimval
+        img: /assets/home/heimval.png
+        desc: 7DRL 2021
+        url: https://sambigos.itch.io/heimval
+      - title: Lost in the Wrong Mythology
+        img: /assets/home/lost-in-the-wrong-mythology.png
+        desc: Global Game Jam 2021
+        url: https://sambigos.itch.io/lost-in-the-wrong-mythology
       - title: Tether Well
-        desc: control a dungeon delver with a rope tether made for gamejam
-        url: /tetherwell/
+        img: /assets/home/tether-well.png
+        desc: Brackeys Jam 2020.2
+        url: https://sambigos.itch.io/tether-well
       - title: Cards'n'Castles
-        desc: autobattler medieval strategy made for gamejam
-        url: /cardsncastles/
-      - title: My Professional Credits
-        desc: games i've worked on as a programmer in the games industry
-        url: /pro-credits/
+        img: /assets/home/cards-n-castles.png
+        desc: My First Game Jam 2020    
+        url: https://sambigos.itch.io/cardsncastles
+        
+  - title: Tools, assets, and tech demos
+    url: false
+    img: false
+    entries:
+      - title: Godot Dither Shader
+        img: /assets/home/godot-dither-shader.gif
+        desc: 
+        url: https://sambigos.itch.io/godot-dither-shader
+      - title: 2D Global Illumination in Godot
+        img: /assets/home/godot-2d-global-illumination.png
+        desc: 
+        url: https://sambigos.itch.io/2d-global-illumination-in-godot
+      - title: Godot 2D NavMesh Generator
+        img: /assets/home/godot-2d-navmesh-gen.png
+        desc: 
+        url: https://sambigos.itch.io/godot-2d-navmesh-generator
+        
+  - title: Professional credits
+    url: false
+    img: false
+    entries:
+      - title: Assassin's Creed VR
+        img: /assets/home/assassins-creed-vr.png
+        desc: 2020 - present
+        url: https://www.electricsquare.com/games/
+      - title: Forza Street
+        img: /assets/home/forza-street.png
+        desc: 2017 - 2020
+        url: https://play.google.com/store/apps/details?id=com.microsoft.gravity&hl=en_GB&gl=US
+      - title: F1 2016
+        img: /assets/home/f1-2016.png
+        desc: 2015 - 2017
+        url: https://play.google.com/store/apps/details?id=com.codemasters.f12016&hl=en_GB&gl=US
+      - title: Angry Birds Go!
+        img: /assets/home/angry-birds-go.png
+        desc: 2012 - 2015
+        url: https://play.google.com/store/apps/details?id=com.rovio.angrybirdsgo&hl=en_GB&gl=US

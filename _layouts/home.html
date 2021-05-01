@@ -2,15 +2,19 @@
 layout: default
 ---
 <header>
+  <img class="home-head" src="/assets/home/avatar-base.png" />
   <h1>{{ site.title }}</h1>
+  <p style="text-align:center">
   <a href="https://twitter.com/Calneon">twitter</a> / 
   <a href="https://github.com/samuelbigos">github</a> /
   <a href="https://sambigos.itch.io/">itch.io</a>
+  </p>
   {% if site.theme_config.show_description == true %}
     <p>{{ site.description }}</p>
   {% endif %}
 </header>
 {% include menu_item.html collection=site.data.menu.entries %}
+<br /><br />
 
 <div class="footer">
   <p>Sam Bigos, ©2020 - <a href="feed.xml">feed</a></p>
