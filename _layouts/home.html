@@ -2,19 +2,20 @@
 layout: default
 ---
 <header>
-  <img class="home-head" src="/assets/home/avatar-base.png" />
-  <h1>{{ site.title }}</h1>
-  <p style="text-align:center">
-  <a href="https://twitter.com/Calneon">twitter</a> / 
-  <a href="https://github.com/samuelbigos">github</a> /
-  <a href="https://sambigos.itch.io/">itch.io</a>
-  </p>
-  {% if site.theme_config.show_description == true %}
-    <p>{{ site.description }}</p>
-  {% endif %}
+  <div class="title-container">
+    <div class=socials>
+      <a href="https://twitter.com/Calneon">twitter</a> / 
+      <a href="https://github.com/samuelbigos">github</a> /
+      <a href="https://sambigos.itch.io/">itch.io</a>
+    </div> 
+    <h1><span class="title">{{ site.title }}</span></h1>
+    {% if site.show_description == true %}
+      <span class="description">{{ site.description }}</span>
+    {% endif %}
+  </div>
 </header>
+
 {% include menu_item.html collection=site.data.menu.entries %}
-<br /><br />
 
 <div class="footer">
   <p>Sam Bigos, ©2020 - <a href="feed.xml">feed</a></p>

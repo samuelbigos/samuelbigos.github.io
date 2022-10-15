@@ -1,6 +1,6 @@
 body {
-   background-color: #ededed;
-   color: #303030;
+   background-color: #1b2634;
+   color: #ffffff;
    font-family: Miriam Libre, "Courier New", monospace;
    font-size: 1.0rem;
    line-height: 1.5rem;
@@ -13,15 +13,30 @@ body {
 }
 
 .wrapper {
-   width: fit-content;
-   max-width: 45rem;
-   margin: 2rem auto;
-   padding: 0 1rem;
+   width: 60rem;
+   max-width: 60rem;
+   margin: 3rem auto;
 }
 
 .created {
   font-style: italic;
   text-align: center;
+}
+
+.title {
+  background: #14191f;
+  padding: 0.7rem;
+  border-radius: 8px;
+}
+
+.description {
+  background: #14191f;
+  padding: 0.5rem;
+  border-radius: 8px;
+}
+
+.socials {
+  float: right;
 }
 
 img {
@@ -50,24 +65,21 @@ img.home {
 }
 
 img.full {
-  border-radius: 12px;
+  border-radius: 8px;
   width: 51rem;
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
-  margin-left: -6rem;
 }
 
 img.small {
-  border-radius: 12px;
+  border-radius: 8px;
   width: 41rem;
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
-  margin-left: 2rem;
-  margin-right: 2rem;
 }
 
 img.inline-l {
-  border-radius: 12px;
+  border-radius: 8px;
   margin-top: 0.25rem;
   margin-bottom: 0.5rem;
   margin-right: 1.0rem;
@@ -96,21 +108,31 @@ img.inline-r {
 a.back:hover {
 }
 
+p {
+  color: #ffffff;
+}
+
+h2.nobg { 
+  background: 0px;
+}
+
 h1 { 
-  color: #a00000;
+  color: #ffffff;
   line-height: 1.8rem; 
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   margin-bottom: 2rem;
-  text-align: center;
+  text-align: left;
 }
 
 h2 { 
-  color: #a00000;
+  background: #14191f;
+  padding: 0.5rem;
+  border-radius: 8px;
+  color: #ffffff;
   padding-top: 1rem;
   line-height: 1.5rem; 
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   &:before { content: '// ' }
-  text-align: center;
 }
 
 h3 {
@@ -128,9 +150,11 @@ ul.home {
 }
 
 a:link {
+   color: #6e7685;
 }
 
 a:visited {
+   color: #6e7685;
 }
 
 a:hover {
@@ -145,7 +169,12 @@ a:active {
   bottom: 0;
   width: 100%;
   text-align: center;
-  background: #ededed;
+  background: #14191f;
+}
+
+span.tag {
+  color: #a4a4a4;
+  font-weight: bold;
 }
 
 span.date {
@@ -183,7 +212,7 @@ ul {
 
 ul li::before {
   content: "\25CF";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
-  color: #a00000; /* Change the color */
+  color: #ffffff; /* Change the color */
   font-weight: bold; /* If you want it to be bold */
   display: inline-block; /* Needed to add space between the bullet and the text */
   width: 1em; /* Also needed for space (tweak if needed) */
@@ -203,7 +232,7 @@ ul li.home::before {
 
 .info {
   font-size: 0.9rem;
-  background: #eeeeee;
+  background: #14191f;
   border-radius: 8px;
   margin-right: 2rem;
   margin-top: 0.25rem;
@@ -223,7 +252,7 @@ ul li.home::before {
 }
 
 hr {
-   border-top: 3px solid #a00000;
+   border-top: 3px dashed #ffffff;
    width: 56rem;
    margin-left: -6rem;
    margin-top: 2rem;
@@ -232,10 +261,10 @@ hr {
 
 /** Syntax highlighting styles */
 .highlight { 
-   background: #202531; 
+   background: #14191f; 
    border-radius: 8px;
-   margin-left: -6rem;
-   width: 51rem;
+   margin-left: 0rem;
+   width: 60rem;
    line-height: 1.2rem;
    font-size: 0.9rem;
    padding-left: 1rem;
@@ -260,7 +289,7 @@ pre, code {
 
 code.language-plaintext {
    font-family: Source Code Pro;
-   background-color: #e6e9ea;
+   background-color: #14191f;
    padding: 0em 0.2em;
    border-radius: 3px;
    font-style: italic;

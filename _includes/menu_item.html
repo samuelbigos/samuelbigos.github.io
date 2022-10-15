@@ -1,19 +1,5 @@
 <ul class="home">
   {% for item in include.collection %}
-    <li class="home">
-    {% if item.url != false %}
-      <a class="home" href="{{ item.url }}">{{ item.title }}</a> » <i>{{ item.desc }}</i>
-    {% else %}
-      <h2>
-      {{ item.title }}
-      </h2>
-    {% endif %}
-    {% if item.img != false %}
-      <img class="home" src="{{ item.img }}" />
-    {% endif %}
-    <p>
-    </li>
-
     {% if item.post_list == true %}
       {% include post_list.html %}
     {% endif %}

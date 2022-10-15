@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "2DGI #1 - Global Illumination in Godot"
-date:   2020-10-28 00:00:00 +0000
+title: "2DGI #1 - Global Illumination in Godot"
+date: 2020-10-28 00:00:00 +0000
 categories: posts
 image: "https://samuelbigos.github.io/assets/2020-10-05-2dgi1-2d-global-illumination-in-godot/1.png"
 created: "Created 28 October 2020"
 comments_id: 1
+tag: "Development"
 ---
 
 Hello.

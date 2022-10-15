@@ -1,9 +1,17 @@
 {% if site.posts.size > 0 %}
   <ul class="home">
-    {% for post in site.posts %}
-      <li class="home">
-        <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span> » <a class="home" href="{{ post.url }}">{{ post.title }}</a>
-      </li>
+  {% for post in site.posts %}
+    {% assign currentdate = post.date | date: "%Y" %}
+      {% if currentdate != date %}
+        {% unless forloop.first %}</ul>{% endunless %}
+          <h2 class="nobg" id="y{{post.date | date: "%Y"}}"><span class="description">{{ currentdate }}<span></h1>
+          <ul>
+            {% assign date = currentdate %}
+      {% endif %}
+        <li class="home">
+          <span class="tag">[{{ post.tag }}]</span> » <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span> » <a class="home" href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% if forloop.last %}</ul>{% endif %}
     {% endfor %}
   </ul>
 {% endif %}
