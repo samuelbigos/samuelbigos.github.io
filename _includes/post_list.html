@@ -9,7 +9,11 @@
             {% assign date = currentdate %}
       {% endif %}
         <li class="home">
-          <span class="tag">[{{ post.tag }}]</span> » <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span> » <a class="home" href="{{ post.url }}">{{ post.title }}</a>
+          {% if post.link %}
+            <span class="tag">[{{ post.tag }}]</span> » <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span> » <a class="home" href="{{ post.link }}">{{ post.title }}</a>
+          {% else %}
+            <span class="tag">[{{ post.tag }}]</span> » <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span> » <a class="home" href="{{ post.url }}">{{ post.title }}</a>
+          {% endif %}
         </li>
       {% if forloop.last %}</ul>{% endif %}
     {% endfor %}
