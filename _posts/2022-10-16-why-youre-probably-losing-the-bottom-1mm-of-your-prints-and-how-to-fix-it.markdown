@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Actually properly leveling your build plate"
+title:  "Why you're probably losing the bottom 1mm of your prints and how to fix it"
 date:   2022-10-16 00:00:00 +0000
 categories: posts
 image:
 created: "Created 16 October 2022"
-comments_id: 4
+comments_id: 5
 tag: 3D Printing
 ---
 
