@@ -9,6 +9,12 @@ comments_id: 4
 tag: 3D Printing
 ---
 
+These two objects are the same .STL and use the same slicer settings, yet one has a properly leveled build plate. It's likely you're losing the bottom millimeter of every print you make. In this post I'll discuss why that can matter and how you can resolve it by properly leveling your build plate.
+
+<img class="full" src="/assets/2022-10-16-actually-properly-leveling-your-build-plate/20221017_000014.jpg" />
+
+## The most common issue nobody knows about...
+
 Leveling the build plate is one of the first things you'll do with a new resin printer, and arguably it's the most important thing to get right when it comes to making prints succeed. So it's odd that the process has a sort of 'black magic' reputation among the resin printing hobbyist community. Everyone seems to have their preferred way to level their build plate, often based on anecdotal evidence from somebody else, or just being the first thing they tried that worked for them.
 
 I'd argue the reason for this is it doesn't _really_ matter how accurately the build plate is leveled for the majority of users.
@@ -50,7 +56,7 @@ I usually make these about 1-2mm tall. But after printing, I always had more tro
 
 What was happening, I discovered, was that about 1mm of the bottom of the print was completely gone. Not printed at all, meaning all my prints were ~1mm shorter than they should be.
 
-I did a quick test, making a 5x5x5mm cube and printing it. Lo-and-behold, the cube came out closer to 5x5x4mm, a whole milimeter short:
+I did a quick test, making a 5x5x5mm cube and printing it. Lo-and-behold, the cube came out closer to 5x5x4mm, a whole millimeter short:
 
 <img class="full" src="/assets/2022-10-16-actually-properly-leveling-your-build-plate/20221016_180828.jpg" />
 _This actually isn't first cube I printed, this one is only ~0.5mm shorter than it should be._
