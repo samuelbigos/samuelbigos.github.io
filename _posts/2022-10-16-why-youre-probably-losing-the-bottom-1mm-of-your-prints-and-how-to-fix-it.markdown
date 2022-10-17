@@ -74,7 +74,7 @@ If you can't make out the text, on the top of each cube is the corner (top left,
 
 ## What's going on?
 
-When I leveled by Saturn 2's build plate after I got it a few weeks ago, I used a sheet of A4 paper (after multiple failed builds using the provided cardboard, not really knowing what I was doing). I also attempted to ensure the plate was level by testing the force required to remove the paper from all four corners. I then proceeded printing, happy with my successfully level plate and successful prints.
+When I initially leveled my Saturn 2's build plate, I used a sheet of A4 paper. I also attempted to ensure the plate was level by testing the force required to remove the paper from all four corners. I then proceeded printing, happy with my successfully level plate and successful prints.
 
 But there was something sinister afoot...
 
