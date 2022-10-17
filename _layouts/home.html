@@ -1,22 +1,5 @@
 ---
 layout: default
 ---
-<header>
-  <div class="title-container">
-    <div class=socials>
-      <a href="https://twitter.com/Calneon">twitter</a> / 
-      <a href="https://github.com/samuelbigos">github</a> /
-      <a href="https://sambigos.itch.io/">itch.io</a>
-    </div> 
-    <h1><span class="title">{{ site.title }}</span></h1>
-    {% if site.show_description == true %}
-      <span class="description">{{ site.description }}</span>
-    {% endif %}
-  </div>
-</header>
-<br>
-{% include menu_item.html collection=site.data.menu.entries %}
 
-<div class="footer">
-  <p>Sam Bigos, ©2020 - <a href="feed.xml">feed</a></p>
-</div>
+{% include menu_item.html collection=site.data.menu.entries %}
