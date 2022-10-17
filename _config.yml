@@ -22,7 +22,7 @@ title: sam.bigos
 show_description: true
 description: Assorted words relating to gaming, game development, 3d printing, board games, etc.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://samuelbigos.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: calneon
 github_username: samuelbigos
 twitter_url: "@calneon"
