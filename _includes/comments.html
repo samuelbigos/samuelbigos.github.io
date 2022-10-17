@@ -110,7 +110,7 @@ Object.keys(commentScripts).forEach(script =>
 function renderComments(comments) {
   if (!allCommentScriptsLoaded()) return;
 
-    commentsCount.innerText = `(${comments.length})`;
+    commentsCount.innerText = `(${comments.length == undefined ? "0" : comments.length})`;
 
     const commentsList = document.createElement('ol');
     commentsList.className = 'comments-list';
