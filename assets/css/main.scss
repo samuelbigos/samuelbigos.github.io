@@ -2,3 +2,36 @@
 ---
 
 @import "no-style-please";
+
+.preview-card { display: none; }
+.preview-investigator-front { display: none; }
+.preview-investigator-back { display: none; }
+.link:hover .preview-card { 
+  display: inline-block; 
+  position: absolute; 
+  transform: translateX(-100%) translateY(7%);
+  width: 240px;
+  height: 335px;
+}
+.link:hover .preview-investigator-front { 
+  display: inline-block; 
+  position: absolute; 
+  transform: translateX(-100%) translateY(5%);
+  width: 335px;
+  height: 240px;
+}
+.link:hover .preview-investigator-back { 
+  display: inline-block; 
+  position: absolute; 
+  transform: translateX(-100%) translateY(107%);
+  width: 335px;
+  height: 240px;
+}
+img.inline-card {
+  width: 240px;
+  height: auto;
+}
+.token {
+  color: #ffffff;
+  font-family: 'ahlcg';
+}

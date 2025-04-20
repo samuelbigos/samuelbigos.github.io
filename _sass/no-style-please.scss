@@ -1,20 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+@font-face {
+    font-family: 'ah_lcgregular';
+    src: url('ah_lcg_v3-webfont.woff2') format('woff2'),
+         url('ah_lcg_v3-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
-   background-color: #1b2634;
-   color: #ffffff;
-   font-family: Miriam Libre, "Courier New", monospace;
+   background-color: #0f1116;
+   color: #c8cfdc;
+   font-family: ah_lcgregular, Open Sans, Helvetica, Arial, sans-serif;
    font-size: 1.0rem;
    line-height: 1.5rem;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 900px) {
    body {
       margin-left: 0rem;
    }
 }
 
 .wrapper {
-   width: 60rem;
-   max-width: 60rem;
+   width: 45rem;
+   max-width: 45rem;
    margin: 3rem auto;
 }
 
@@ -24,15 +34,20 @@ body {
 }
 
 .title {
-  background: #14191f;
-  padding: 0.7rem;
-  border-radius: 8px;
+  background: #21252b;
+  padding: 0.0rem;
+  border-radius: 2px; 
+  color: #c8cfdc;
+  line-height: 1.8rem; 
+  font-size: 2.0rem;
+  margin-bottom: 2rem;
+  text-align: left;
 }
 
 .description {
-  background: #14191f;
-  padding: 0.5rem;
-  border-radius: 8px;
+  background: #21252b;
+  padding: 0.0rem;
+  border-radius: 2px;
 }
 
 .socials {
@@ -40,7 +55,7 @@ body {
 }
 
 img {
-  border-radius: 8px;
+  border-radius: 2px;
   display: block;
   margin-left: 0px;
   margin-right: auto;
@@ -58,28 +73,28 @@ img.home {
    margin-right: auto;
    width: 200px;
    height: 120px;
-   border-radius: 16px;
+   border-radius: 26px;
    padding-top: 0.25rem;
    padding-bottom: 0.25rem;
    object-fit: cover;
 }
 
 img.full {
-  border-radius: 8px;
-  width: 60rem;
+  border-radius: 2px;
+  width: 45rem;
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
 }
 
 img.small {
-  border-radius: 8px;
+  border-radius: 2px;
   width: 41rem;
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
 }
 
 img.inline-l {
-  border-radius: 8px;
+  border-radius: 2px;
   margin-top: 0.25rem;
   margin-bottom: 0.5rem;
   margin-right: 1.0rem;
@@ -91,7 +106,7 @@ img.inline-l {
 }
 
 img.inline-r {
-  border-radius: 8px;
+  border-radius: 2px;
   margin-top: 0.25rem;
   margin-bottom: 0.5rem;
   margin-left: 1.0rem;
@@ -117,7 +132,7 @@ a.back:hover {
 }
 
 p {
-  color: #ffffff;
+  color: #c8cfdc;
 }
 
 h2.nobg { 
@@ -125,25 +140,29 @@ h2.nobg {
 }
 
 h1 { 
-  color: #ffffff;
+  background: #21252b;
+  color: #c8cfdc;
   line-height: 1.8rem; 
   font-size: 2.0rem;
   margin-bottom: 2rem;
   text-align: left;
+  font-weight: normal;
 }
 
 h2 { 
-  background: #14191f;
-  padding: 0.5rem;
-  border-radius: 8px;
-  color: #ffffff;
+  background: #21252b;
+  padding: 0.0rem;
+  border-radius: 2px;
+  color: #c8cfdc;
   padding-top: 1rem;
   line-height: 1.5rem; 
   font-size: 1.5rem;
+  font-weight: normal;
   &:before { content: '// ' }
 }
 
 h3 {
+  font-weight: normal;
 }
 
 table, th, td {
@@ -158,22 +177,23 @@ ul.home {
 }
 
 a.title:link {
-  color: #ffffff;
+  color: #c8cfdc;
   text-decoration: none;
 }
 
 a.title:visited {
-  color: #ffffff;
+  color: #c8cfdc;
   text-decoration: none;
 }
 
 a.title:hover {
-  color: #6e7685;
+  color: #ae2850;
   text-decoration: none;
 }
 
 a:link {
    color: #6e7685;
+   font-weight: bold;
 }
 
 a:visited {
@@ -181,7 +201,7 @@ a:visited {
 }
 
 a:hover {
-  color: #ffffff;
+  color: #ae2850;
 }
 
 a:active {
@@ -193,12 +213,12 @@ a:active {
   bottom: 0;
   width: 100%;
   text-align: center;
-  background: #14191f;
+  background: #21252b;
 }
 
 span.tag {
-  color: #a4a4a4;
-  font-weight: bold;
+  color: #f;
+  font-weight: normal;
 }
 
 span.date {
@@ -236,8 +256,8 @@ ul {
 
 ul li::before {
   content: "\25CF";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
-  color: #ffffff; /* Change the color */
-  font-weight: bold; /* If you want it to be bold */
+  color: #c8cfdc; /* Change the color */
+  font-weight: normal; /* If you want it to be bold */
   display: inline-block; /* Needed to add space between the bullet and the text */
   width: 1em; /* Also needed for space (tweak if needed) */
   margin-left: -1em; /* Also needed for space (tweak if needed) */
@@ -256,8 +276,8 @@ ul li.home::before {
 
 .info {
   font-size: 0.9rem;
-  background: #14191f;
-  border-radius: 8px;
+  background: #21252b;
+  border-radius: 2px;
   margin-right: 2rem;
   margin-top: 0.25rem;
   margin-bottom: 1rem;
@@ -276,7 +296,7 @@ ul li.home::before {
 }
 
 hr {
-   border-top: 3px dashed #ffffff;
+   border-top: 3px dashed #c8cfdc;
    width: 56rem;
    margin-left: -6rem;
    margin-top: 2rem;
@@ -285,10 +305,10 @@ hr {
 
 /** Syntax highlighting styles */
 .highlight { 
-   background: #14191f; 
-   border-radius: 8px;
+   background: #21252b; 
+   border-radius: 2px;
    margin-left: 0rem;
-   width: 60rem;
+   width: 45rem;
    line-height: 1.2rem;
    font-size: 0.9rem;
    padding-left: 1rem;
@@ -313,7 +333,7 @@ pre, code {
 
 code.language-plaintext {
    font-family: Source Code Pro;
-   background-color: #14191f;
+   background-color: #21252b;
    padding: 0em 0.2em;
    border-radius: 3px;
    font-style: italic;
@@ -321,51 +341,51 @@ code.language-plaintext {
 
 .highlight pre { white-space: pre; overflow: auto; }
 .highlight .c { color: #6d7079; font-style: italic; } /* Comment */
-.highlight .err { color: #ffffff } /* Error */
+.highlight .err { color: #c8cfdc } /* Error */
 .highlight .g { color: #ccced3 } /* Generic */
 .highlight .k { color: #e16679 } /* Keyword */
 .highlight .l { color: #63ddf5 } /* Literal */
 .highlight .n { color: #bec1c6 } /* Name */
 .highlight .o { color: #a0bcf0 } /* Operator */
-.highlight .x { color: #ffffff } /* Other */
+.highlight .x { color: #c8cfdc } /* Other */
 .highlight .p { color: #a7c4f9 } /* Punctuation */
 .highlight .cm { color: #6d7079; font-style: italic; } /* Comment.Multiline */
 .highlight .cp { color: #6d7079; font-weight: bold; font-style: italic; } /* Comment.Preproc */
 .highlight .c1 { color: #6d7079; font-style: italic; } /* Comment.Single */
 .highlight .cs { color: #6d7079; font-style: italic; } /* Comment.Special */
-.highlight .gd { color: #ffffff } /* Generic.Deleted */
-.highlight .ge { color: #ffffff } /* Generic.Emph */
-.highlight .gr { color: #ffffff } /* Generic.Error */
-.highlight .gh { color: #ffffff; font-weight: bold } /* Generic.Heading */
-.highlight .gi { color: #ffffff } /* Generic.Inserted */
+.highlight .gd { color: #c8cfdc } /* Generic.Deleted */
+.highlight .ge { color: #c8cfdc } /* Generic.Emph */
+.highlight .gr { color: #c8cfdc } /* Generic.Error */
+.highlight .gh { color: #c8cfdc; font-weight: bold } /* Generic.Heading */
+.highlight .gi { color: #c8cfdc } /* Generic.Inserted */
 .highlight .go { color: #444444; background-color: #222222 } /* Generic.Output */
-.highlight .gp { color: #ffffff } /* Generic.Prompt */
-.highlight .gs { color: #ffffff } /* Generic.Strong */
-.highlight .gu { color: #ffffff; font-weight: bold } /* Generic.Subheading */
-.highlight .gt { color: #ffffff } /* Generic.Traceback */
+.highlight .gp { color: #c8cfdc } /* Generic.Prompt */
+.highlight .gs { color: #c8cfdc } /* Generic.Strong */
+.highlight .gu { color: #c8cfdc; font-weight: bold } /* Generic.Subheading */
+.highlight .gt { color: #c8cfdc } /* Generic.Traceback */
 .highlight .kc { color: #e16679; font-weight: bold } /* Keyword.Constant */
 .highlight .kd { color: #e16679; font-weight: bold } /* Keyword.Declaration */
 .highlight .kn { color: #e16679; font-weight: bold } /* Keyword.Namespace */
 .highlight .kp { color: #e16679 } /* Keyword.Pseudo */
 .highlight .kr { color: #e16679; font-weight: bold } /* Keyword.Reserved */
 .highlight .kt { color: #e16679 } /* Keyword.Type */
-.highlight .ld { color: #ffffff } /* Literal.Date */
+.highlight .ld { color: #c8cfdc } /* Literal.Date */
 .highlight .m { color: #a0ffe0 } /* Literal.Number */
 .highlight .s { color: #fdeaa0 } /* Literal.String */
-.highlight .na { color: #ffffff; } /* Name.Attribute */
+.highlight .na { color: #c8cfdc; } /* Name.Attribute */
 .highlight .nb { color: #e16679 } /* Name.Builtin */
-.highlight .nc { color: #ffffff } /* Name.Class */
-.highlight .no { color: #ffffff } /* Name.Constant */
-.highlight .nd { color: #ffffff } /* Name.Decorator */
-.highlight .ni { color: #ffffff } /* Name.Entity */
-.highlight .ne { color: #ffffff } /* Name.Exception */
+.highlight .nc { color: #c8cfdc } /* Name.Class */
+.highlight .no { color: #c8cfdc } /* Name.Constant */
+.highlight .nd { color: #c8cfdc } /* Name.Decorator */
+.highlight .ni { color: #c8cfdc } /* Name.Entity */
+.highlight .ne { color: #c8cfdc } /* Name.Exception */
 .highlight .nf { color: #57b2ff } /* Name.Function */
-.highlight .nl { color: #ffffff } /* Name.Label */
-.highlight .nn { color: #ffffff } /* Name.Namespace */
-.highlight .nx { color: #ffffff } /* Name.Other */
-.highlight .py { color: #ffffff } /* Name.Property */
-.highlight .nt { color: #ffffff } /* Name.Tag */
-.highlight .nv { color: #ffffff } /* Name.Variable */
+.highlight .nl { color: #c8cfdc } /* Name.Label */
+.highlight .nn { color: #c8cfdc } /* Name.Namespace */
+.highlight .nx { color: #c8cfdc } /* Name.Other */
+.highlight .py { color: #c8cfdc } /* Name.Property */
+.highlight .nt { color: #c8cfdc } /* Name.Tag */
+.highlight .nv { color: #c8cfdc } /* Name.Variable */
 .highlight .ow { color: #e16679 } /* Operator.Word */
 .highlight .w { color: #888888 } /* Text.Whitespace */
 .highlight .mf { color: #a0ffe0 } /* Literal.Number.Float */
@@ -398,7 +418,7 @@ img.comment-avatar {
 }
 
 a.comment-username {
-   font-weight: bold;
+   font-weight: normal;
    float: left;
 }
 
