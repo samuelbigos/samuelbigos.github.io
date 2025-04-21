@@ -2,8 +2,8 @@
 
 @font-face {
     font-family: 'ah_lcgregular';
-    src: url('ah_lcg_v3-webfont.woff2') format('woff2'),
-         url('ah_lcg_v3-webfont.woff') format('woff');
+    src: url('https://samuelbigos.github.io/assets/css/ah_lcg_v3-webfont.woff2') format('woff2'),
+         url('https://samuelbigos.github.io/assets/css/ah_lcg_v3-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -11,7 +11,7 @@
 body {
    background-color: #0f1116;
    color: #c8cfdc;
-   font-family: ah_lcgregular, Open Sans, Helvetica, Arial, sans-serif;
+   font-family: Open Sans, Helvetica, Arial, sans-serif;
    font-size: 1.0rem;
    line-height: 1.5rem;
 }
