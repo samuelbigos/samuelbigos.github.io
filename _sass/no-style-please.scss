@@ -23,7 +23,6 @@ body {
 }
 
 .wrapper {
-   width: 45rem;
    max-width: 45rem;
    margin: 3rem auto;
 }
@@ -71,7 +70,7 @@ img.home {
    display: block;
    margin-left: 0px;
    margin-right: auto;
-   width: 200px;
+   max-width: 200px;
    height: 120px;
    border-radius: 26px;
    padding-top: 0.25rem;
@@ -81,14 +80,14 @@ img.home {
 
 img.full {
   border-radius: 2px;
-  width: 45rem;
+  max-width: 45rem;
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
 }
 
 img.small {
   border-radius: 2px;
-  width: 41rem;
+  max-width: 41rem;
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
 }

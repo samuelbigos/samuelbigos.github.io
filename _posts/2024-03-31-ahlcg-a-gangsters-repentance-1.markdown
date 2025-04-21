@@ -108,6 +108,8 @@ During upkeep, Mateo draws {%card Unexpected Courage%} and McGlen draws {%card G
 
 ## Round 2
 
+<img class="full" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/R0001035.JPG" />
+
 Mythos phase. Two {%card Swarm of Rats%}! Note that this is two separate swarms of rats, not one huge swarm of rats! Important distinction. There be rats in these tunnels, but what are they running from and where are they going, other than up Mateo's trousers?
 
 McGlen's five {%icon str%} (he actually has F I V E tattooed on the fingers of his clenched fist) makes it unnecessary to spend any ammo dispatching the swarms. He rolls once, he rolls twice, and by magic the rats are dispatched. He then explores the eastern tidal tunnel, revealing an {%card Underground River%}. Lots of clues and a victory point, but not the easiest for Mateo to investigate right now.
@@ -119,6 +121,8 @@ During upkeep, McGlen draws {%card Remington Model 1858%}, which might be helpfu
 ## Round 3
 
 The mythos throws two sticky treacheries at us. Mateo foolishly decides to wade into the river (maybe following the alien whispers of the amber fish heart) and gets pulled under by the {%card Undertow%}. Michael thinks he can make out singular cyclopean structures in the cavernous depths, his {%card Dreams of R'lyeh%} affecting his willpower and sanity.
+
+<img class="full" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/R0001040.JPG" />
 
 Assaulted by the currents and his serpentine friend, Mateo is not in a state to act. McGlen to the rescue! Escaping from his daydream, he takes aim with his {%card .45 Automatic%} and {%card Luger P08%}. Michael has not forgotten the face of his father, and downs the monster in a one-two salvo, costing only one action and gaining two resources in the process. The Luger has its uses! A two against three test on {%card Dreams of R'lyeh%} seems unwise so it seems these dreams will be recurrent for now. With the loot dropped by the serpent, Michael can afford the services of {%card Robert Castaigne%}, but first we will advance the act by spending the six clues on Father Mateo.
 
@@ -153,6 +157,8 @@ McGlen: {%card Robert Castaigne%} {%card Remington Model 1858%} {%card "You've h
 
 You know when I just said unless something dramatic happens in the mythos phase. Yeah. Mateo pulls an {%icon tent%} from the bag while testing {%card Macabre Memento%}, failing by 1, taking two horror and retrieving {%card The Amalgam%} from the depths. Yay. McGlen draws {%card Memory of Oblivion%} and tests two against four. Mateo helps out with some {%card Unexpected Courage%}. McGlen pulls the autofail, discarding his entire hand.
 
+<img class="full" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/R0001041.JPG" />
+
 Michael unloads once again into the abomination, first action whiffing with a {%icon -4%} token, second one barely succeeding with a {%icon -3%}. That's the .45 empty and still one health remaining. Michael quickly reloads the {%card Luger P08%} before firing off a shot and scraping {%card The Amalgam%} enough to have it tottering off back to the depths. Learning point: Never test at less than +3!
 
 Mateo knows we can't afford to delay any longer, so he explores further east, revealing {%card Tidal Pool%} and putting two set aside tidal tunnels east and south of it. It has two clues, and a key. Mateo will want to investigate this fast before it gets flooded. To that end, out comes the second {%card Clairvoyance%} for four of Mateo's six resources, and immediately uses it to investigate. At least having the Elder Sign sealed means a lower chance of taking 1 horror from Clairvoyance! Swings and roundabouts. Mateo commits {%card The Codex of Ages%} to go +3, and pulls a {%icon -2%}, success! Two clues and a key, which this time is 'a calcified piece of chitin in the shape of a tentacle'. Sexy.
@@ -164,6 +170,8 @@ During upkeep, Mateo draws {%card Ward of Protection%} and Michael draws {%card 
 Two rounds before the agenda advances, and we get the Elder Sign back. Here's hoping we can make some decent progress towards finding the exit, unless the mythos says nope again. Speaking of which, the mythos says {%card From the Depths%} to Mateo, and Mateo says fuck you six ways to Sunday with {%card Ward of Protection%}. Gosh, that felt good, though Mateo's sanity isn't looking too great with five horror. Thankfully we can play Olive soon to give the priest some respite.
 
 Unfortunately, Michael draws {%card Blindsense%} and without any cards to commit for agility, is reliant on drawing a {%icon 0%} or {%icon +1%} to prevent a third encounter with {%card The Amalgam%}. It really doesn't want to accept defeat at the battle of underground river, does it? However, by some stroke of luck or sheer force of will, Michael does pull a {%icon 0%} and The Amalgam remains in the depths.
+
+<img class="full" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/R0001042.JPG" />
 
 Finally we have a round of relative calm. Mateo will push even further east to reveal an {%card Underwater Cavern%}, coming into play with two clues and a full flood token. Mateo will have to leave by the end of the next round or take five damage, but there's no need to stick around. The final tidal tunnel can enter play to the south, which creates an efficient path back to other unrevealed locations, with no backtracking. Given no immediate need for the clues on the underwater cavern, Mateo immediately explores south, revealing another {%card Underwater Cavern%}. There's the option of using the >Move here to teleport back to McGlen (presumably riding the current like tube at a water park), but this is less efficient for revealing all the locations, which we want to do, so Mateo makes one final move east, revealing... {%card Sealed Exit%}!
 
@@ -177,6 +185,8 @@ Both drew {%card Guts%} in the upkeep phase.
 
 {%card Rising Tides%} causes an inconsequential flood level increase to the {%card Tidal Pool%} we've already visited. Michael draws {%card Fractured Consciousness%}. He can shrug off the two damage, the only risk is pulling the {%icon tent%} token and spawning {%card The Amalgam%}, but there's nothing we can do to raise his paltry intelligence, so we just have to hope for the best. We draw a {%icon -2%}. Note to self: {%card Olive McBride%} is useful to avoid the {%icon tent%} in a test that is otherwise unpassable.
 
+<img class="full" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/R0001043.JPG" />
+
 Father Mateo swims to be reunited with Michael (and his guns). This puts the shroud at four and with the {%card Guts%} we just draw, we should be able to clear this location and unlock the second flashback. Before forgetting, Mateo plays {%card Olive McBride%} and then investigates with {%card Clairvoyance%}. This is am important test so we're going to throw a lot at it. Michael and Mateo both commit {%card Guts%}, giving +4. Mateo commits {%card Favor of the Sun%}, since it seems we're never going to get any bless tokens in the bag this scenario. He then uses {%card Olive McBride%} to draw three tokens and resolve two of them. The odds of failure without Olive are 1/19 (the autofail), and the odds of failure with Olive would require lots of math to determine but basically would mean drawing the autofail, and some combination of tokens that results in -6 or less, which my gut says is rarer than 1/19. Mateo draws {%icon +1%}, {%icon -3%}, {%icon -2%}, which is a solid pass. We can actually resolve the {%icon -3%} and {%icon -2%} and still pass, avoiding the horror we'd have got resolving the {%icon +1%}. Mateo draws {%card Enraptured%} and Michael draws another {%card .18 Derringer%}. Mateo will need to find some low shroud locations to investigate with intelligence, so {%card Enraptured%} can put some charges back onto {%card Clairvoyance%}. Finally, we get the two clues and flashback two.
 
 The bones we're stood on jog a memory of fighting some enormous aquatic creature while trying to escape in a fishing vessel. For anyone familiar with The Call of Cthulhu story, that should seem terrifyingly familiar. We get to remove a {%icon cult%} token from the bag, which doesn't help much with this scenario, we'd have much preferred removing the {%icon tent%}.
@@ -189,7 +199,10 @@ During upkeep, Mateo draws {%card Flashlight%} which will help enable {%card Enr
 
 The agenda flips, we get the Elder Sign back, and presumably bad stuff will happen. Ah yes. Bad stuff did happen. Everywhere is flooded, and half the locations are fully flooded. Thankfully, the the new agenda has 8 doom threshold which feels like enough to see out the rest of the locations (though we know how optimism is punished in Arkham Horror). Mateo draws {%card Lurking Deep One%} taking a damage in the engage, and Michael draws {%card Riptide%}, which is totally fine because Michael has plenty of guns to discard. Turns out, it's not fine as he pulls the {%icon tent%} and {%card The Amalgam%} is back! The .45 is lost to the riptide but that's no biggie (unlike the monstrosity that just appeared).
 
-Michael has a bit of a problem now. He's on a fully flooded location, so can't end his turn on another fully flooded location (well, he could survive with 2 health remaining but that seems bad). Ideally {%card The Amalgam%} dies in two hits (one action because of the Luger), then he moves back to the {%card Bone-ridden Pit%} to use his final action saving Mateo from the {%card Lurking Deep One%}. That's a lot of tests that need to succeed though! This seems like a good opportunity to use a {%card Bum's Rush%}. Michael tests 8 vs 2 and succeeds by four, stealing back the key, dealing a damage, and exhausting the abomination. Unfortunately since it's elite, it can't be shoved somewhere else. Michael then moves to Mateo and shoots the deep one with the .18. He pulls an {%icon tent%}, but this time it's still a success and Mateo is free again, and Michael gets a resource for his trouble.
+<img class="full" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/R0001045.JPG" />
+<img class="full" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/R0001046.JPG" />
+
+Michael has a bit of a problem now. He's on a fully flooded location (_editor note: this was a mistake, the location can't be fully flooded. I fix this in a few rounds_), so can't end his turn on another fully flooded location (well, he could survive with 2 health remaining but that seems bad). Ideally {%card The Amalgam%} dies in two hits (one action because of the Luger), then he moves back to the {%card Bone-ridden Pit%} to use his final action saving Mateo from the {%card Lurking Deep One%}. That's a lot of tests that need to succeed though! This seems like a good opportunity to use a {%card Bum's Rush%}. Michael tests 8 vs 2 and succeeds by four, stealing back the key, dealing a damage, and exhausting the abomination. Unfortunately since it's elite, it can't be shoved somewhere else. Michael then moves to Mateo and shoots the deep one with the .18. He pulls an {%icon tent%}, but this time it's still a success and Mateo is free again, and Michael gets a resource for his trouble.
 
 Mateo moves west twice, since he started in a partially flooded location he can afford to end in a fully flooded one. Passing the disorientated abomination in the underground river, he reveals the {%card Idol Chamber%}, which gives access to the fourth flashback with the purple key, which we haven't found yet. Mateo then plays a {%card Flashlight%}.
 
@@ -202,6 +215,9 @@ Michael: {%card Bum's Rush%} {%card .18 Derringer%} {%card Manual Dexterity%}
 
 Mateo draws {%card Riptide%}. He's not worried about losing the empty {%card Clairvoyance%}, but will activate Olive to potentially avoid a {%icon cult%} (1 damage), or {%icon tab%} (1 horror). Michael draws another {%card Fractured Consciousness%} and takes another two damage.
 
+<img class="full" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/R0001047.JPG" />
+<img class="full" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/R0001048.JPG" />
+
 There are three unrevealed locations left, and we still need the green key, purple key, and two flashbacks. The {%card Idol Chamber%} requires the purple key to unlock flashback four. The green key is required to escape. The yellow key was used in {%card Bone-ridden Pit%}. So, one location will require the red key for flashback three, and the other two locations will contain the purple and green key.
 
 Mateo moves north and reveals {%card Fish Graveyard%} ("Dr. Fishy! Noooooo!") We control a key so don't take horror, and this is a two shroud location which is perfect with {%card Flashlight%} and {%card Enraptured%}. Unfortunately we used Olive in the mythos phase so we can't guarantee the investigate. We commit {%card Enraptured%} and succeed, putting a charge on {%card Clairvoyance%} and gaining one of the two clues. Repeat once more with the second {%card Enraptured%}, succeed and get the final clue. Unfortunately Michael has the red key so we'll have to wait for him to unlock the third flashback, and he has bigger fish to fry right now. SPEAKING OF BIG FISH.
@@ -213,6 +229,9 @@ During the enemy phase (oh yeah, I'd forgotten what having to do something durin
 ## Round 10
 
 Mythos phase, Mateo draws {%card Deep One Bull%} (discarding {%card Rite of Sanctification%}) and Michael draws {%card Deep One Assault%}. So much for not drawing enemies huh. Unfortunately the bull is two locations away from Michael so the assault can't draw the bull off Mateo, and another enemy has to be found from the encounter deck. At least we get to choose a {%card Lurking Deep One%}, which deals a damage as it engages but can be neutered with a single {%card Bum's Rush%}.
+
+<img class="full" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/R0001049.JPG" />
+<img class="full" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/R0001050.JPG" />
 
 Michael, being two locations from Mateo, can't deal with both his foe and Mateo's, but if he ends up at Mateo's location he has {%card Manual Dexterity%} to commit to an evasion test. {%card Bum's Rush%} succeeds by 3 so the {%card Lurking Deep One%} gets punted into the tidal pool and Michael is free to move to Mateo.
 
@@ -228,9 +247,13 @@ During the enemy phase, {%card The Amalgam%} hunts north to the {%card Undergrou
 
 We're at the mercy of the mythos here. Our board state is tenuous, with the {%card Deep One Bull%} and no immediate way to deal with it, and {%card The Amalgam%} on us in two rounds. Another enemy would be pretty disasterous. Mateo thus draws {%card Young Deep One%}, taking a horror which Olive soaks. Michael draws {%card Swarm of Rats%} which will cost us a valuable action to deal with. Not good.
 
+<img class="full" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/R0001085.JPG" />
+
 Michael punches the {%card Swarm of Rats%} successfully, then plays {%card Luger P08%}. The alternative is gaining a resource and paying something bigger like the {%card .41 Derringer%}, but that would mean not having actions to fight and thus missing out on this round's free trigger of Michael's ability. Using the free Luger trigger, targetting the {%card Young Deep One%}, Michael shoots and scores a damage, then follows up with a basic fight action, committing one of the {%card .41 Derringer%}s to be +3, which also succeeds. Next round, the Luger can finish off the {%card Young Deep One%}, giving enough resources to play {%card .41 Derringer%} to fight the bull and abomination.
 
-Michael has some evading to do, and isn't going to get much help in the form of commits. First, the {%card Deep One Bull%}. I'm still not sure if Olive is beneficial here, testing at +1, but lets give her a go. We pull an {%icon tent%} (-3), {%icon -3%}, and {%icon bless%}. {%card Ancient Covenant%} means we don't have to draw another token after the {%icon bless%}, so resolving that and a {%icon -3%} means we pass by 0! The problem now is the {%card Young Deep One%} which is a 3 vs 3 test, with no Olive or Covenant to help out. The risk of trying is a damage or horror from the {%icon cult%} or {%icon tab%}, though there is only one of each in the bag now. Lets go for it. {%icon cult%}, that's a fail and a damage. Again. A {%icon bless%}, followed by... an {%icon tent%}. That's the worst case, removing a {%icon bless%} and still failing. Oh well.
+Mateo has some evading to do, and isn't going to get much help in the form of commits. First, the {%card Deep One Bull%}. I'm still not sure if Olive is beneficial here, testing at +1, but lets give her a go. We pull an {%icon tent%} (-3), {%icon -3%}, and {%icon bless%}. {%card Ancient Covenant%} means we don't have to draw another token after the {%icon bless%}, so resolving that and a {%icon -3%} means we pass by 0! The problem now is the {%card Young Deep One%} which is a 3 vs 3 test, with no Olive or Covenant to help out. The risk of trying is a damage or horror from the {%icon cult%} or {%icon tab%}, though there is only one of each in the bag now. Lets go for it. {%icon cult%}, that's a fail and a damage. Again. A {%icon bless%}, followed by... an {%icon tent%}. That's the worst case, removing a {%icon bless%} and still failing. Oh well.
+
+<img class="full" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/R0001048.JPG" />
 
 During the enemy phase, {%card The Amalgam%} hunts, it's now only one turn away. Mateo takes one and one from the {%card Young Deep One%} and is re-engaged by the {%card Deep One Bull%} (discarding {%card Arcane Studies%} this time). Mateo draws {%card Holy Rosary%} and Michael draws {%card Hard Knocks%}.
 
@@ -247,13 +270,17 @@ This feels like a tipping point for the scenario now. If Mateo manages to evade 
 
 In the enemy phase, {%card The Amalgam%} hunts into the {%card Fish Graveyard%}, engaging and attacking Michael, and stealing his key. Then, the {%card Deep One Bull%} readies and engages, causing Michael to discard {%card Lucky Cigarette Case%}. Mateo draws {%card Holy Rosary%} and Michael draws a replacement {%card Lucky Cigarette Case%}.
 
+<img class="full" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/R0001088.JPG" />
+
 ## Round 13
 
 Mateo draws {%card Deep One Assault%} and in the history of Arkham Horror, no encounter card has ever been cancelled as fast. Michael draws {%card Memory of Oblivion%} which essentially means discarding his whole hand barring a miracle from the chaos bag. He pulls a {%icon -1%} which is a failure by 2, and {%card .18 Derringer%} and {%card Lucky Cigarette Case%} are discarded.
 
 Mateo rushes through Michael and his two fishy buddies in the {%card Fish Graveyard%}, entering the {%card Altar to Dagon%}, before placing the aquatic statue on the altar and gaining the green key in return, "an emerald key with four prongs".
 
-Michael shoots {%card The Amalgam%} with the {%card .41 Derringer%}, pulls an {%icon tent%} which means a glancing blow and only one damage. Going again, he pulls and elder sign, causing {%card The Amalgam%} to retreat to the depths and putting an extra bullet on the Derringer. As his last action, he needs to evade the {%card Deep One Bull%} or take two damage from it, leaving him on one health. With nothing to commit, there's nothing for it but to pull... a {%icon bless%} token, putting him at +3, followed by... an {%icon tent%}, which is a success by 0! Pulling the {%icon tent%} without the {%icon bless%} would have been catastrophic, leading to the immediate return of {%card The Amalgam%}, leading to Michael's death and the blocking of Mateo's escape.
+<img class="full" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/R0001091.JPG" />
+
+Michael shoots {%card The Amalgam%} with the {%card .41 Derringer%}, pulls an {%icon tent%} which means a glancing blow and only one damage. Going again, he pulls and elder sign, causing {%card The Amalgam%} to retreat to the depths and putting an extra bullet on the Derringer. As his last action, he needs to evade the {%card Deep One Bull%} or take two damage from it, leaving him on one health. With nothing to commit, there's nothing for it but to pull... a {%icon bless%} token, putting him at +3, followed by... an {%icon tent%}, which is a success by 0! Pulling the {%icon tent%} without the {%icon bless%} would have been catastrophic, leading to the immediate return of {%card The Amalgam%}, Michael's death, and the blocking of Mateo's escape.
 
 After an un-eventful enemy phase for once, the bull re-engages on Michael and at least doesn't cause a discard from Michael's empty hand. Mateo draws his second {%card Keep Faith%}, which could come in clutch, and Michael draws {%card Robert Castaigne%}, though doesn't have the freedom to play him yet.
 
@@ -261,6 +288,8 @@ After an un-eventful enemy phase for once, the bull re-engages on Michael and at
 
 Mateo: {%card Holy Rosary%} {%card Keep Faith%}
 Michael: {%card Robert Castaigne%}
+
+<img class="full" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/R0001095.JPG" />
 
 Six out of Eight doom. Mythos, Mateo draws {%card Rising Tides%} which floods the {%card Altar to Dagon%} which seems appropriate considering he just activated the altar and presumably triggered the 'drown them before they can escape!' trap. Michael draws {%card Macabre Memento%}, which is no threat itself since Michael can take the horror, but the risk of drawing the {%icon tent%} and bringing back {%card The Amalgam%} is significant. Mateo, during the player window, will play {%card Keep Faith%} which, albeit only slightly, reduces the odds of Michael failing with the {%icon tent%} (he would have to draw 2x{%icon bless%} followed by the {%icon tent%} to succeed with it). Michael's {%card Dreams of R'lyeh%} means the test is two vs three, and losing would put him on one sanity. He pulls a {%icon -2%}.
 
@@ -287,6 +316,8 @@ Michael: {%card Overpower%} {%card Luger P08%}
 
 Eight of eight doom, the agenda advances. Everywhere becomes fully flooded, except the {%card Underground River%}s which can't be. Thankfully, we can utilise one of them as the last vestige of solid ground to grab the final flashback and then make our escape.
 
+<img class="full" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/R0001099.JPG" />
+
 Mateo draws {%card Lurking Deep One%}, taking a damage from the engage. Michael draws {%card From the Depths%}. Unbelievable, there really is no end to it.
 
 Mateo begins by evading the {%card Lurking Deep One%}, using the same combo of {%card Favor of the Sun%} and {%card Ancient Covenant%} to guarantee success. He then moves back to the underground river. Without enough actions to move into the {%card Idol Chamber%} and back, he has to stay put, drawing a card instead, {%card Flashlight%}.
@@ -310,6 +341,8 @@ Upkeep, {%card The Amalgam%} enages Michael, who draws {%card Pilfer%}. Mateo dr
 Mateo: {%card Holy Rosary%} {%card Rite of Sanctification%} {%card Flashlight%} {%card Prescient%} {%card Radiant Smite%}
 Michael: {%card Crack Shot%} {%card Crack Shot%} {%card .45 Automatic%} {%card Remington Model 1858%} {%card Pilfer%}
 
+<img class="full" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/R0001100.JPG" />
+
 The mythos provides Mateo with {%card Memory of Oblivion%}. We have lots to commit to this, but we discard cards by each point we fail by so it's net neutral. Mateo pulls {%icon -1%}, so discards {%card Rite of Sanctification%}. Michael draws {%card Riptide%}, which is absolutely fine. The test fails and he loses {%card "Viola" Case%} to the rapids, no harm done.
 
 The end is so close we start to smell the fresh air in anticipation. In the most important evade of Michael's life, he commits {%card Pilfer%} {%card Remington Model 1858%} {%card .45 Automatic%} to go +4 against {%card The Amalgam%}. Pullling a {%icon -3%}, the abomination is exhausted one final time and Michael dashes to the {%card Sealed Exit%}, but can't yet resign. Mateo follows, but isn't going to leave his friend behind. One more round and this horrific experience will be behind us.
@@ -321,6 +354,8 @@ During upkeep, Mateo draws {%card Arcane Studies%}, and Michael draws {%card Man
 Three our of four doom, the last round of the scenario. Mateo draws {%card Fractured Consciousness%}! Disaster, this could kill Mateo who only has two health remaining. He commits {%card Flashlight%} and {%card Arcane Studies%} to go +2. With no {%icon bless%} in the bag, and on a fully flooded location, Mateo's chances are slim. Pullling a {%icon -1%}, he makes it through. Michael draws {%card From the Depths%}, but it surges. {%card Rising Tides%} also surges. {%card Memory of Oblivion%} is Michael's final hurdle, and pulling a {%icon tab%} would turn him insane. It's... a {%icon 0%}. He discards two cards but is otherwise unharmed.
 
 Mateo takes the emerald, four pronged key and unlocks the sewer grate. He steps through into the fresh air and freedom from the nightmare. He then locks the grate behind him and throws the key back through. Michael catches the key and unlocks the grate once more, rejoining his friend on the other side.
+
+<img class="full" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/R0001101.JPG" />
 
 It's over, and not a moment too soon. One more round and the doom clock would have chimed midnight, and Michael would have shuffled his deck, being defeated by horror in the process. {%card The Amalgam%} isn't far behind, and as Mateo and Michael walk away, they hear it slam into the grate behind them, its fleshy appendages thrashing at the bars.
 
