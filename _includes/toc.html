@@ -57,7 +57,7 @@
     {% assign orderedList = include.ordered | default: false %}
     {% assign skipNoIDs = include.skipNoIDs | default: false %}
     {% assign minHeader = include.h_min | default: 1 %}
-    {% assign maxHeader = include.h_max | default: 6 %}
+    {% assign maxHeader = include.h_max | default: 3 %}
     {% assign nodes = include.html | split: '<h' %}
     {% assign firstHeader = true %}
     {% assign previousLevel = 0 %}

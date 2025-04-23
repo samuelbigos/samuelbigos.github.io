@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Arkham Horror Stories - A Gangster's Repentance - Scenario 2: The Vanishing of Elina Harper"
-date:   2025-04-22 00:00:00 +0000
+date:   2029-04-22 00:00:00 +0000
 categories: posts
 image:
 created: "Created 22 April 2025"

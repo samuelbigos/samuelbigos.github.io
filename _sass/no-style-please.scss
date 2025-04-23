@@ -23,7 +23,7 @@ body {
 }
 
 .wrapper {
-   max-width: 45rem;
+   max-width: 48rem;
    margin: 3rem auto;
 }
 
@@ -80,7 +80,7 @@ img.home {
 
 img.full {
   border-radius: 2px;
-  max-width: 45rem;
+  max-width: 48rem;
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
 }
@@ -161,7 +161,13 @@ h2 {
 }
 
 h3 {
-  font-weight: normal;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 1.2rem;
+  font-weight: bold;
 }
 
 table, th, td {
@@ -191,12 +197,12 @@ a.title:hover {
 }
 
 a:link {
-   color: #6e7685;
-   font-weight: bold;
+   color: #868fa0;
+   /*font-weight: bold;*/
 }
 
 a:visited {
-   color: #6e7685;
+   color: #868fa0;
 }
 
 a:hover {
@@ -307,7 +313,7 @@ hr {
    background: #21252b; 
    border-radius: 2px;
    margin-left: 0rem;
-   width: 45rem;
+   width: 48rem;
    line-height: 1.2rem;
    font-size: 0.9rem;
    padding-left: 1rem;
