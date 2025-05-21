@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Blue Prince - Day thirty and I'm still looking for the stairs"
-date:   2025-05-19 00:00:00 +0000
+date:   2025-05-19
 categories: posts
-created: "Created 19th May 2025"
 comments_id: 5
 tag: VDG
 ---

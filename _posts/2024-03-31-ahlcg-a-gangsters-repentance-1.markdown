@@ -1,10 +1,8 @@
 ---
 layout: post
 title:  "Arkham Horror Stories - A Gangster's Repentance - Scenario 1: The Pit of Despair"
-date:   2025-04-21 00:00:00 +0000
+date:   2025-04-21
 categories: posts
-image:
-created: "Created 21 April 2025"
 comments_id: 6
 tag: BDG
 ---

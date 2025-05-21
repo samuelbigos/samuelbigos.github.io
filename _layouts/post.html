@@ -6,7 +6,7 @@ layout: default
 <div class="toc">
    {% include toc.html html=content class="inline_toc" submenu_class="inline_toc" item_class="inline_toc" %}
 </div>
-<div class="created">{{ page.created }}</div><br>
+<div class="created">{{ page.date | date: "%b %-d, %Y" }}</div>
 {{ content }}
 {% if page.comments_id %}
    {% include comments.html issue_id=page.comments_id %}

@@ -38,6 +38,7 @@ body
    font-family: $body-font,Helvetica,"GNU Unifont",sans-serif;
    font-size: 1.0rem;
    line-height: 1.4rem;
+   margin: 0rem;
 }
 
 p 
@@ -248,8 +249,12 @@ span.date {
   width: calc($left-item-offset - 1rem);
   margin-left: -$left-item-offset;
   margin-bottom: 1rem;
-  margin-top: 1rem;
+  margin-top: 1.9rem;
   padding-right: 1rem;
+}
+
+ul li.inline_toc::before {
+  content: "";
 }
 
 @media (max-width: $left-item-clamp) {
@@ -292,8 +297,10 @@ li.inline_toc {
 }
 
 .created {
+  font-size: 0.9rem;
   font-style: italic;
   text-align: right;
+  color: $date-font-colour;
 }
 
 .title {
