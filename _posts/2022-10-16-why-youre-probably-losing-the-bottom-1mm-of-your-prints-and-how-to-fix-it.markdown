@@ -6,7 +6,7 @@ categories: posts
 image:
 created: "Created 16 October 2022"
 comments_id: 5
-tag: 3D Printing
+tag: 3DP
 ---
 
 These two objects are the same .STL and use the same slicer settings, yet one has a properly leveled build plate. It's likely you're losing the bottom millimeter of every print you make. In this post I'll discuss why that can matter and how you can resolve it by properly leveling your build plate.
@@ -94,9 +94,9 @@ The solution is fairly simple, but a little cumbersome. Instead of relying on so
 
 First we ensure our build plate is _level_, i.e. the height at all four corners is equal. We can do this by leveling with any thickness of paper or card (though it's important that you stick with this thickness during the whole process), and then making sure each corner requires the same force to pull the paper out. If the force isn't equal, keep re-tightening the bolts while applying pressure to the corner/side of the plate that requires the least force, until it is equal. Use raise/lower 1mm buttons to insert the paper below a corner, lower the plate, and test for pressure.
 
-<img class="inline-l" src="/assets/2022-10-16-actually-properly-leveling-your-build-plate/20221016_175230.jpg" />
-<img class="inline-r" src="/assets/2022-10-16-actually-properly-leveling-your-build-plate/20221016_175302.jpg" />
-<img class="inline-r" src="/assets/2022-10-16-actually-properly-leveling-your-build-plate/20221016_175310.jpg" />
+<img class="small" src="/assets/2022-10-16-actually-properly-leveling-your-build-plate/20221016_175230.jpg" />
+<img class="small" src="/assets/2022-10-16-actually-properly-leveling-your-build-plate/20221016_175302.jpg" />
+<img class="small" src="/assets/2022-10-16-actually-properly-leveling-your-build-plate/20221016_175310.jpg" />
 
 ### 2. Measure
 
@@ -128,10 +128,10 @@ Now, we repeat the second and third steps until we get a print that is the corre
 
 With the build plate raised an extra 0.4mm above the paper level, I got an almost perfect print on all four corners:
 
-<img class="inline-l" src="/assets/2022-10-16-actually-properly-leveling-your-build-plate/20221016_174759.jpg" />
-<img class="inline-r" src="/assets/2022-10-16-actually-properly-leveling-your-build-plate/20221016_174809.jpg" />
-<img class="inline-l" src="/assets/2022-10-16-actually-properly-leveling-your-build-plate/20221016_174658.jpg" />
-<img class="inline-r" src="/assets/2022-10-16-actually-properly-leveling-your-build-plate/20221016_174748.jpg" />
+<img class="small" src="/assets/2022-10-16-actually-properly-leveling-your-build-plate/20221016_174759.jpg" />
+<img class="small" src="/assets/2022-10-16-actually-properly-leveling-your-build-plate/20221016_174809.jpg" />
+<img class="small" src="/assets/2022-10-16-actually-properly-leveling-your-build-plate/20221016_174658.jpg" />
+<img class="small" src="/assets/2022-10-16-actually-properly-leveling-your-build-plate/20221016_174748.jpg" />
 
 You can clearly see that each cube is 3mm tall (+/- 0.1mm). The bottom layers are messy, but I wasn't using any extra wait time to eliminate elephant's foot and blooming (for lower print time).
 
@@ -148,6 +148,3 @@ I conducted this test with the following setup, in-case you want to compare to y
 * 2.5s layer / 7.5s base layer exposure.
 * Resin heated between 25C and 30C (usually I would maintain 30C, but it wasn't critical to this test).
 * Build plate lightly sanded for ~1min with 600 grit sandpaper.
-
----
-

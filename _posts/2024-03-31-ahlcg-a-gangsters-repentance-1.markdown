@@ -6,7 +6,7 @@ categories: posts
 image:
 created: "Created 21 April 2025"
 comments_id: 6
-tag: Board Games
+tag: BDG
 ---
 
 # Introduction
@@ -24,12 +24,14 @@ To spice things up, in the same vein as DerBK's playthrough I will use certain d
 
 In our case, this means since we're playing through The Innsmouth Conspiracy, both investigators have access to Core set, starter sets, and Innsmouth sets. Michael McGlen then has The Drowned City, and Father Mateo has The Forgotten Age. This seems like a great compromise between restricting options for more interesting deckbuilding decisions, and maintaining theme and synergy by sticking with cards specifically designed with the current investigator/campaign in mind. It also means the card pool will rotate a lot depending on any given campaign runthrough.
 
-I will also use the latest tabboo (2024-10-23).
+I will use the latest tabboo (2024-10-23).
 
-I'll be two-handing this playthrough, and have been keen to try out {%investigator Michael McGlen%} from The Drowned City. He's very much focused on one thing and one thing only, guns, which means we need a strong cluever to progress the act deck. A strong seeker could work, but I've always had a fondness for {%investigator Father Mateo%} as his theming is very evocative in the world of Arkham, and his ability very powerful. We also get a great backstory for our campaign: Michael McGlen is looking to right the wrongs of a lifetime of crime, so reaches out to a man of God, Father Mateo, to help him repent and find redemption. As for how they end up in the mysterious seaside town of Innsmouth... we'll have to play through the campaign to find out.
+I'll be two-handing this playthrough, and have been keen to try out {%investigator Michael McGlen%} from The Drowned City. He's very much focused on one thing and one thing only, guns, which means we need a strong cluever to progress the act deck. A strong seeker could work, but I've always had a fondness for {%investigator Father Mateo%} as his theming is very evocative in the world of Arkham, and his ability very strong but limited. 
+
+Storytelling wise, there's a lot of possibities with the two as well. Michael McGlen is hired to look into a disappearance in Innsmouth because of his firepower and knowledge of the backstreets. Father Mateo has a history investigating occult happenings which he sees as an affront to his faith. The two meet on the job, and initially could not be more ideologically opposed, but over time they will come to understand each other and perhaps an unlikely friendship will form...
 
 ## Michael McGlen
-<img style="width:300px; height: auto" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/michael-mcglen.jpg" />
+<img class="small" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/michael-mcglen.jpg" />
 
 [[Full deck]](https://arkhamdb.com/deck/view/4878274)
 
@@ -44,7 +46,7 @@ That's the core of the deck sorted. We need to figure out what support cards we 
 {%card Lucky Cigarette Case%} is the only available accessory slot asset available to us and seems to fit well. Card draw is always good and we'll be over-succeeding a lot with such high fight. It does take up  {%card "Viola" Case%}'s slot, but we don't really need the extra hand slots so will likely want to commit it most of the time. Finally, Michael at least wants to appear to help out Mateo with {%card Pilfer%}. It tests at base 4 which isn't great, but on a low shroud with a few commits, grabbing three clues in one action could prove pivotal. 
 
 ## Father Mateo
-<img style="width:auto; height: auto" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/father-mateo.jpg" />
+<img class="small" src="/assets/2025-04-20-ahlcg-a-gangsters-repentance-1/father-mateo.jpg" />
 
 [[Full deck]](https://arkhamdb.com/deck/view/4878405)
 

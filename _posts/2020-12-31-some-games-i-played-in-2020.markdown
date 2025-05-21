@@ -6,7 +6,7 @@ categories: posts
 image: "https://samuelbigos.github.io/assets/2020-12-31-some-games-i-played-in-2020/summary.png"
 created: "Created 31 December 2020"
 comments_id: 2
-tag: Gaming
+tag: VDG
 ---
 
 Some brief thoughts about any momorable or significant games I played in 2020. Generally ordered chronologically, starting at the beginning of the year.
@@ -148,6 +148,3 @@ Time tends to diappear when I play Townscaper, I would say it's a great way to s
 Probably the best about-an-hour gaming experience you're likely to get, and that's even before considering it's free. Puzzles were engaging and ramp up in difficulty over the ten levels, and it never felt unfair. But the main draw here is the amazing writing and soundtrack, which will keep you hooked throughout. Gameplay visuals are fine and do their job, character portraits are fantastic. 
 
 Do yourself a favour and check [Helltaker](https://store.steampowered.com/app/1289310/Helltaker) out, it really is a gem that shouldn't go unnoticed.
-
----
-

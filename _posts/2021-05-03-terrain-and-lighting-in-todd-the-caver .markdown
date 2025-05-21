@@ -6,7 +6,7 @@ categories: posts
 image: "https://samuelbigos.github.io/assets/2021-05-03-terrain-and-lighting-in-todd-the-caver/collision-shapes.png"
 created: "Created 03 May 2021"
 comments_id: 3
-tag: Development
+tag: DEV
 ---
 
 This is a quick post to show how I created the terrain and lighting in my **Ludum Dare 48** compo entry, Todd the Caver. 
@@ -107,7 +107,3 @@ The only other important part of the lighting setup is added a _CanvasModulate_ 
 For the shafts of light during the rope bridge section (see the .gif at the top of the page), I simply left some gaps in the terrain geometry, and added a big _Light2D_ above the scene to simulate the moon.
 
 I hope this is useful for somebody, let me know if you use this technique in your game!
-
-
----
-

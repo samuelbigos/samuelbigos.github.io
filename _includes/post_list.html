@@ -5,14 +5,14 @@
       {% if currentdate != date %}
         {% unless forloop.first %}</ul>{% endunless %}
           <h2 class="nobg" id="y{{post.date | date: "%Y"}}"><span class="description">{{ currentdate }}<span></h1>
-          <ul>
+          <ul class="home-sub">
             {% assign date = currentdate %}
       {% endif %}
         <li class="home">
           {% if post.link %}
-            <span class="tag">[{{ post.tag }}]</span> » <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span> » <a class="home" href="{{ post.link }}">{{ post.title }}</a>
+            <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span> » <span class="tag">[{{ post.tag }}]</span> » <a class="home" href="{{ post.link }}">{{ post.title }}</a>
           {% else %}
-            <span class="tag">[{{ post.tag }}]</span> » <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span> » <a class="home" href="{{ post.url }}">{{ post.title }}</a>
+            <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span> » <span class="tag">[{{ post.tag }}]</span> » <a class="home" href="{{ post.url }}">{{ post.title }}</a>
           {% endif %}
         </li>
       {% if forloop.last %}</ul>{% endif %}

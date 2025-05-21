@@ -3,7 +3,7 @@
 
 <section id="comments">
     <div class="comment-actions">
-        <h2>Comments <span id="comments-count"></span></h2>
+        <h1>Comments</h1>
         <a
           class="post-comment-button"
           href="https://github.com/{{ issues_repo }}/issues/{{ issue_id }}"
@@ -75,7 +75,7 @@ function allCommentScriptsLoaded() {
 */
 function initRenderComments(comments) {
   if (!comments.length) {
-    commentsWrapper.innerHTML = `<p>No comments yet 👀 Be the first to post!</p>`;
+    commentsWrapper.innerHTML = `<p>No comments yet. Be the first to post!</p>`;
     return;
   }
 

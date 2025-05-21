@@ -6,7 +6,7 @@ categories: posts
 image:
 created: "Created 22 April 2025"
 comments_id: 7
-tag: Board Games
+tag: BDG
 ---
 
 # Upgrades

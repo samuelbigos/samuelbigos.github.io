@@ -6,7 +6,7 @@ categories: posts
 image: "https://samuelbigos.github.io/assets/2020-10-05-2dgi1-2d-global-illumination-in-godot/1.png"
 created: "Created 28 October 2020"
 comments_id: 1
-tag: "Development"
+tag: DEV
 ---
 
 Hello.
@@ -640,6 +640,3 @@ If you haven't been following along and want to have a play with the completed p
 I make no promises on when I will make the next part of the '2DGI in Godot' series, but when it comes we'll be looking at implementing bounced light for true global illumination (because to be honest, what we have right now isn't any better than sprite based lighting). If you want a sneak-peak of that, there's always [my 2DGI in Godot demo source code](https://github.com/samuelbigos/godot_2d_global_illumination) to look at.
 
 The best way to contact me with any questions is on [Twitter](https://twitter.com/Calneon), you can also leave a comment using the link below provided you have a GitHub account.
-
----
-
