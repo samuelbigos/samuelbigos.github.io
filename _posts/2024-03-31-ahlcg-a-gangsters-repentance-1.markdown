@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Arkham Horror Stories - A Gangster's Repentance - Scenario 1: The Pit of Despair"
+title:  "Arkham Horror LCG - A Gangster's Repentance #1 - Pit of Despair"
 date:   2025-04-21
 categories: posts
 comments_id: 6

@@ -13,7 +13,7 @@
 
 // VARIABLES
 
-$body-width: calc(min(40rem, 100vw));
+$body-width: calc(min(42rem, 100vw));
 $body-font: "Lato";
 $body-background-colour: #15191F;
 $body-font-colour: #ac9984;
@@ -335,7 +335,7 @@ ul {
 }
 
 ul.home-sub {
-  padding-left: 1rem;
+  padding-left: 0.5rem;
 }
 
 ul li::before {
@@ -359,11 +359,9 @@ ul li.home::before {
 }
 
 hr {
-   border-top: 3px dashed $body-font-colour;
-   width: 56rem;
-   margin-left: -6rem;
-   margin-top: 2rem;
-   margin-bottom: 2rem;
+   border-top: 1px $body-font-colour;
+   border-width: 1px;
+   width: $body-width;
 }
 
 /** Syntax highlighting styles */

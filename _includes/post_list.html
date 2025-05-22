@@ -10,9 +10,9 @@
       {% endif %}
         <li class="home">
           {% if post.link %}
-            <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span> » <span class="tag">[{{ post.tag }}]</span> » <a class="home" href="{{ post.link }}">{{ post.title }}</a>
+            <span class="date">{{ post.date | date: "%b %-d" }}</span> <span class="tag">[{{ post.tag }}]</span> » <a class="home" href="{{ post.link }}">{{ post.title }}</a>
           {% else %}
-            <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span> » <span class="tag">[{{ post.tag }}]</span> » <a class="home" href="{{ post.url }}">{{ post.title }}</a>
+            <span class="date">{{ post.date | date: "%b %-d" }}</span> <span class="tag">[{{ post.tag }}]</span> » <a class="home" href="{{ post.url }}">{{ post.title }}</a>
           {% endif %}
         </li>
       {% if forloop.last %}</ul>{% endif %}
