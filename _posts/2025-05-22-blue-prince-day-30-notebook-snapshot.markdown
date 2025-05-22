@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blue Prince - Notebook snapshot at day thirty"
+title:  "Blue Prince - Notebook snapshot at day 35"
 date:   2025-05-22
 categories: posts
 tag: VDG
@@ -16,7 +16,9 @@ I think I reached Room 46 around day 20. I entered the inner sanctum by rotating
 
 <img class="full" src="/assets/2025-05-22-blue-prince-day-30-notebook-snapshot/20250515010627_1.jpg" />
 
-The first time you enter Room 46 the credits roll and the next day starts, you don't actually get to see what's in there (other than through the cutscene). It actually took me a while to go back because I was checking out other things. In the meantime I had discovered how to drain the fountain to create a way to enter the other side of the underground without needing to draft the crypt, which was useful. I'd also found how to open the other doors to the antechamber, in addition to the secret garden unlocking the west door, a lever behind one of the locked doors in the great hallway opens the east door, and finding the broken lever and then using it to pull the lever in the greenhouse opens the southern door. I'd also discovered a secret path around the back of the underground rotating platform which allowed me to enter the inner sanctum directly through the foundation.
+The first time you enter Room 46 the credits roll and the next day starts, you don't actually get to see what's in there. The cutscene is Mary reading The Red Prince book to one of her sons. From the bunk room we know Mary had two sons and I'm thinking the one she's reading to in the cutscene is your brother and not you. One being the blue prince (Simon) and the other the red prince. Perhaps something bad happened to the red prince?
+
+It actually took me a while to go back because I was checking out other things. In the meantime I had discovered how to drain the fountain to create a way to enter the other side of the underground without needing to draft the crypt, which was useful. I'd also found how to open the other doors to the antechamber, in addition to the secret garden unlocking the west door, a lever behind one of the locked doors in the great hallway opens the east door, and finding the broken lever and then using it to pull the lever in the greenhouse opens the southern door. I'd also discovered a secret path around the back of the underground rotating platform which allowed me to enter the inner sanctum directly through the foundation.
 
 Actually exploring Room 46 for the first time revealed a document with hints for where the eight sanctum keys are, to open the doors in the inner sanctum. Here are my notes on that:
 
@@ -79,9 +81,9 @@ The office safe was presumably set by Sinclair, so will be a date that is signif
 
 There are 8 sigils, one for each country. One of the inner sanctum doors had the sigil puzzle for Fenn Aires behind it, which is the one with the pentagon in the middle. From the sigil on Mary's fake passports in the vault I was able to align everything to unlock the path forward, which didn't reveal a whole lot other than the trickiest Mora Jai box yet. There was a postcard written by Herbert Sinclair, which seemed to be sent to the estate as a sort of keepsake or memory of his travels. I think these postcards will give the solution to the pins-on-the-map puzzle in Room 46.
 
-By combining the magnifying glass and metal detector I was able to make a burner which lit the candles in the candle room underground. That opened up a stairway down to the old mine. There seems to be a lot of lore surrounding this place, with an expedition into the depths all the way back in 1915 by the Sinclair who was baron of Mt. Holly at the time. In addition to that there was a semi-destroyed book about the sigils and how read the different elements. I imagine I will have to construct some of the sigils from descriptions of each kingdom rather than from a picture of the sigil. There was a cryptic note at the top of the clocktower which I thought might be something to do with this.
+<img class="full" src="/assets/2025-05-22-blue-prince-day-30-notebook-snapshot/20250520182123_1.jpg" />
 
-<img class="full" src="/assets/2025-05-22-blue-prince-day-30-notebook-snapshot/20250519191214_1.jpg" />
+By combining the magnifying glass and metal detector I was able to make a burner which lit the candles in the candle room underground. That opened up a stairway down to the old mine. There seems to be a lot of lore surrounding this place, with an expedition into the depths all the way back in 1915 by the Sinclair who was baron of Mt. Holly at the time. In addition to that there was a semi-destroyed book about the sigils and how read the different elements. I imagine I will have to construct some of the sigils from descriptions of each kingdom rather than from a picture of the sigil. There was a cryptic note at the top of the clocktower which I thought might be something to do with this.
 
 ## Chess
 
@@ -189,3 +191,19 @@ In addition to powering the pump room to drain the reservoir, I think there migh
 Finding all the sheet music pages revealed the location of the conservatory blueprints, which is a great room because it allows tweaking of the room probabilities, which is one of the only true 'deckbuilding' mechanics in the game (others I've found being the spray bottle which removes rooms from the pool, but this is very rare, and the spanner which can change the rarity of mechanical rooms).
 
 <img class="full" src="/assets/2025-05-22-blue-prince-day-30-notebook-snapshot/20250518213900_1.jpg" />
+
+## Biggest runs so far
+
+### Day 27
+<img class="full" src="/assets/2025-05-22-blue-prince-day-30-notebook-snapshot/20250519112803_1.jpg" />
+
+### Day 30
+<img class="full" src="/assets/2025-05-22-blue-prince-day-30-notebook-snapshot/20250519185200_1.jpg" />
+<img class="full" src="/assets/2025-05-22-blue-prince-day-30-notebook-snapshot/20250519191214_1.jpg" />
+
+### Day 33
+<img class="full" src="/assets/2025-05-22-blue-prince-day-30-notebook-snapshot/20250520163626_1.jpg" />
+
+### Day 34
+<img class="full" src="/assets/2025-05-22-blue-prince-day-30-notebook-snapshot/20250520184613_1.jpg" />
+<img class="full" src="/assets/2025-05-22-blue-prince-day-30-notebook-snapshot/20250520184734_1.jpg" />

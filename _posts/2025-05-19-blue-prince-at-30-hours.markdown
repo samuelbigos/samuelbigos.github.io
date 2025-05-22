@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blue Prince - Day thirty and I'm still looking for the stairs"
+title:  "Blue Prince - Day 30 and I'm still looking for the stairs"
 date:   2025-05-19
 categories: posts
 tag: VDG
@@ -21,6 +21,10 @@ Take the core mechanic of the game, the room-laying. The shape of the house is (
 If instead the house was 7x7, roughly the number of rooms but layed out in a square rather than a rectangular grid, a dominant strategy would form. It would be best to expand by drafting rooms with many doors, obtaining lots of open connections, then with that safety net, draft lots of high value rooms without much risk. The game would become stale and much less interesting.
 
 As you progress further into the house, to higher ranks, rooms generally get more expensive to draft. This is accomplished with a variety of mechanics: more doors are locked and need keys to open; rarer rooms become more common, and these tend to have higher gem costs; and most of the cheap connecting rooms will already have been drafted earlier on. This all leads to it being difficult to forge a path upwards without first creating a sizeable foundation for gathering resources (a nice metaphor that is referenced in one of the game's self-referential books).
+
+There's a fantastic transition that happens when the estate is close to being filled with rooms. It stops being a roguelike and starts being an optimisation puzzle, and it's amazing. After exhausting most open connections you'll probably be low on resources including steps, and you'll usually have a few things you still want to accomplish. There could be a few unused doors to backtrack to and open up. You might want to make some trips underground to progress some meta objectives. You might want to do stuff in previous rooms with newer items you've acquired, e.g. crafting. You might want to make sure you end the day in a specific room. 
+
+Prioritising these and determining which are possible with the steps you have remaining, then executing and accomplishing what you set out to do, before ending the day, is immensely satisfying.
 
 All of this is to say that Blue Prince's core deckbuilding (though I wouldn't really call it a deckbuilder) roguelike mechanics provide a compelling and addictive enough foundation for everything else it's trying to do. Which is A LOT.
 
