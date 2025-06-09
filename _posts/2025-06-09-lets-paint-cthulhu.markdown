@@ -51,7 +51,7 @@ This will give a lovely red hue to the shadows that will compliment the green of
 <img class="full" src="/assets/2025-06-08-cthulhu-painting/R0001188.JPG" />
 
 ### 3. Airbrush Cayman Green from above/sides
-This is the primary skin tone. Apply from above and going down to just above horizontal to leave the red in the shadowed regions.
+This is the primary skin tone. I applied from above going down to just above horizontal to leave the red in the shadowed regions.
 
 <img class="full" src="/assets/2025-06-08-cthulhu-painting/R0001189.JPG" />
 
@@ -68,15 +68,15 @@ This was intended to represent more light shining through the membranous wings, 
 
 <img class="full" src="/assets/2025-06-08-cthulhu-painting/R0001200.JPG" />
 
-Start by painting all water with pure Night Blue.
+I started by painting all water with pure Night Blue.
 
 <img class="full" src="/assets/2025-06-08-cthulhu-painting/R0001202.JPG" />
 
-Progressively wet blend in lighter colours on waves and tips of waves.
+Progressively wet blended in lighter colours on waves and tips of waves.
 
 <img class="full" src="/assets/2025-06-08-cthulhu-painting/R0001204.JPG" />
 
-Go up to a blend of Turquoise and Wolf Grey on the wave peaks. We will drybrush pure Wolf Grey later around the rocks and tentacles for the foam.
+Blend of Turquoise and Wolf Grey on the wave peaks. I'm going to drybrush pure Wolf Grey later around the rocks and tentacles for the foam.
 
 <img class="full" src="/assets/2025-06-08-cthulhu-painting/R0001208.JPG" />
 
@@ -84,7 +84,7 @@ Go up to a blend of Turquoise and Wolf Grey on the wave peaks. We will drybrush 
 (image above)
 
 ### 8. Glaze turquoise up bottom of the flesh emerging from water
-This will help ground Cthulhu in the water and make it look like he's actually emerging.
+There was an abrupt transition between Cthulhu and the water so I did some blending of the water colour (thinned) onto the bottom of the flesh.
 
 <img class="full" src="/assets/2025-06-08-cthulhu-painting/R0001206.JPG" />
 
@@ -96,14 +96,14 @@ I'm actually not sure if this would have been better shaded with the same tone a
 <img class="full" src="/assets/2025-06-08-cthulhu-painting/R0001196.JPG" />
 
 ### 2. Shade flesh including tentacles with Nuln Oil + Nocturnal Red mix
-We want to shade the crevasses with the same dark red tone we initially basecoated in. I took a base of Nuln Oil and added Nocturnal Red to it. I thinned it a bit more to offset the added pigment, or the shade would be a bit too aggressive.
+I wanted to shade the crevasses with the same dark red tone we initially basecoated in. I took a base of Nuln Oil and added Nocturnal Red to it then thinned it a bit more to offset the added pigment.
 
 <img class="full" src="/assets/2025-06-08-cthulhu-painting/R0001209.JPG" />
 
 <img class="full" src="/assets/2025-06-08-cthulhu-painting/R0001213.JPG" />
 
 ### 3. Shade water with Nuln Oil + Night Blue mix
-Blend this water shade with the flesh shade above on all the fleshy parts emerging from the water, for a nice transition.
+I blended this water shade with the flesh shade above on all the fleshy parts emerging from the water, for a nice transition.
 
 <img class="full" src="/assets/2025-06-08-cthulhu-painting/R0001212.JPG" />
 
@@ -111,43 +111,42 @@ Blend this water shade with the flesh shade above on all the fleshy parts emergi
 
 ### 1. Paint the tentacle suckers Succubus Skin
 
+To make the suckers pop I went over them with a nice deep fleshy tone.
+
 <img class="full" src="/assets/2025-06-08-cthulhu-painting/R0001216.JPG" />
 
-Once dry, re-shade with the flesh shade mix used above.
+Once dry, I re-shaded with the flesh shade mix used above.
 
-Once that's dry, do a final dot highlight mixing in Wolf Grey. A single dot will give the impression of a glossy slimy sucker (we'll add gloss varnish later).
+Then I did a final dot highlight by adding some Wolf Grey. A single dot should give a glossy appearance suggesting slime.
 
 <img class="full" src="/assets/2025-06-08-cthulhu-painting/R0001219.JPG" />
 
 ### 2. Glaze Cayman Green and Dead Flesh mix on raised parts of flesh including tentacles
-Thin Cayman Green with water or glaze medium, and add some Dead Flesh to it. Gently brush it over the raised parts of the flesh that should be highlighted. Keep your brush strokes aligned with the muscle fibres where possible. 
+I thinned Cayman Green with water and add some Dead Flesh to it. Then gently brushed it over the raised parts of the flesh that should be highlighted. I tried to keep brush strokes aligned with the muscle fibres to accentuate them.
 
 <img class="full" src="/assets/2025-06-08-cthulhu-painting/R0001214.JPG" />
 <img class="full" src="/assets/2025-06-08-cthulhu-painting/R0001215.JPG" />
 
-Be patient and don't add too much Dead Flesh at once and keep the paint thin. Keep going until you're glazing mostly pure dead flesh on the most raised parts, like the forehead and cheek bones and tentacles.
+I keep going until the mix was mostly pure dead flesh on the most raised parts, like the forehead and cheek bones and tentacles. I went slowly using many layers to make sure the blend was nice and smooth.
 
 <img class="full" src="/assets/2025-06-08-cthulhu-painting/R0001217.JPG" />
 
 I mostly focused on the head, chest, arms, and tentacles. I didn't highlight the wings, either the front or back, mostly because I was under time pressure.
 
 ### 3. Drybrush water foam with Wolf Grey
-Get a stiff brush, load with Wolf Grey then rub most of it off (more than you think). Then wipe back and forth on the water around where the rocks and flesh is emerging. Don't be afraid to get foam on the rocks or flesh.
+With a stiff brush I loaded Wolf Grey then rubbed most of it off on a paper towel. Then wiped back and forth on the water around where the rocks and flesh is emerging, getting some on the rocks and flesh to help ground them in the water.
 
 <img class="full" src="/assets/2025-06-08-cthulhu-painting/R0001218.JPG" />
 
-## Finishes
+## Finishing
 
 ### 1. Eyes
-1. I gave Cthulhu red eyes to match the AHLCG artwork, but for some more detail gave him (it?) a vertically elongated orange iris and black pupil.
+I gave Cthulhu red eyes to match the AHLCG artwork, but for some more detail gave him a vertically elongated orange iris and black pupil.
 
-2. To do this, first paint the whole eye in Dead White. White has much better coverage than red, so the red will go on much easier over white.
-
-3. Then, paint over the white with Bloody Red.
-
-4. Then, again with white, add a vertical slit for the iris, then paint over it with Orange Fire.
-
-5. Finally, with Black, make an even thinner vertical slit for the pupil.
+1. I painted the whole eye in Dead White to allow the red to go on easier.
+2. Then painted over white with Bloody Red.
+3. Then, again with white, I added a vertical slit for the iris, then painted over it with Orange Fire.
+4. Finally, with Black, I made an even thinner vertical slit for the pupil.
 
 <img class="full" src="/assets/2025-06-08-cthulhu-painting/R0001221.JPG" />
 
@@ -163,7 +162,7 @@ I airbrush this on in a couple of layers. Mixing in some satin varnish is a tip 
 ### 4. Brush gloss varnish on suckers and eyes
 Makes the suckers look like they're covered in slime, and makes the eyes pop.
 
-## Fin!
+## Cthulhu has emerged from your dreams into reality!
 I'm happy with the result, for a day's work. The green flesh with red shadows works really well, and I'm pleased with the water blend and the blends on the flesh emerging from the water. The eyes also turned out great.
 
 The wings are the weak point, since I didn't expend any effort on them at all. I'm not totally sure what could be done to improve them though.
