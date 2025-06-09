@@ -3,10 +3,9 @@ layout: post
 title:  "Terrain and lighting in Todd the Caver"
 date:   2021-05-03 00:00:00 +0000
 categories: posts
-image: "https://samuelbigos.github.io/assets/2021-05-03-terrain-and-lighting-in-todd-the-caver/collision-shapes.png"
 created: "Created 03 May 2021"
 comments_id: 3
-tag: DEV
+tag: Development
 ---
 
 This is a quick post to show how I created the terrain and lighting in my **Ludum Dare 48** compo entry, Todd the Caver. 

@@ -6,7 +6,7 @@ categories: posts
 image:
 created: "Created 16 October 2022"
 comments_id: 5
-tag: 3DP
+tag: Crafting
 ---
 
 These two objects are the same .STL and use the same slicer settings, yet one has a properly leveled build plate. It's likely you're losing the bottom millimeter of every print you make. In this post I'll discuss why that can matter and how you can resolve it by properly leveling your build plate.

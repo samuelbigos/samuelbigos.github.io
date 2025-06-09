@@ -3,7 +3,7 @@ layout: post
 title:  "Blue Prince - Notebook snapshot at day 35"
 date:   2025-05-22
 categories: posts
-tag: VDG
+tag: Videogames
 ---
 
 For posterity I thought it would be nice to record a snapshot of my notes and thoughts at Blue Prince day 35. For some less spoilery thoughts on the game you can read my previous post.

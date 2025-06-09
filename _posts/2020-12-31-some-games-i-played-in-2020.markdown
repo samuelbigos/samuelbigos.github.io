@@ -6,7 +6,7 @@ categories: posts
 image: "https://samuelbigos.github.io/assets/2020-12-31-some-games-i-played-in-2020/summary.png"
 created: "Created 31 December 2020"
 comments_id: 2
-tag: VDG
+tag: Videogames
 ---
 
 Some brief thoughts about any momorable or significant games I played in 2020. Generally ordered chronologically, starting at the beginning of the year.

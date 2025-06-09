@@ -3,7 +3,7 @@ layout: post
 title:  "Blue Prince - Day 30 and I'm still looking for the stairs"
 date:   2025-05-19
 categories: posts
-tag: VDG
+tag: Videogames
 ---
 
 Blue Prince is a deeply entangled, addictive, mastercrafted, and compelling work of art. At about 30 days in (which is also roughly 30 hours) I feel I've got a decent handle on what the game is about, but have only scratched the surface of the mysteries buried beneath the roguelike facade. It's taking a lot of willpower to get my thoughts down instead of starting just one more run.

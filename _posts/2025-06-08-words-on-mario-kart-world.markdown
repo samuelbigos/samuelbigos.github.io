@@ -4,7 +4,7 @@ title:  "Words on Mario Kart World"
 date:   2025-06-08 00:00:00 +0000
 categories: posts
 comments_id: 99999
-tag: VDG
+tag: Videogames
 ---
 
 When developing Mario Kart World I think Nintendo had a problem. Mario Kart 8 had existed for ten years and had pretty much perfected the core formula of Mario Kart. An incremental update to graphical fidelity or gameplay mechanics wasn't going to cut it, and I don't think the playerbase would have accepted bringing MK8 to a third generation of consoles.
